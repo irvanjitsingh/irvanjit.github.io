@@ -7,8 +7,8 @@ permalink: /about/
 Relevant:
 [tweets][twitter] |
 [code][github] | 
-[talking about code ][stackoverflow] |
-[writing about stuff][wordpress]
+[stackoverflow][stackoverflow] |
+[old blog][wordpress]
 
 Not so much:
 
