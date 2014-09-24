@@ -1,0 +1,15 @@
+# Site settings
+title: insert creative blog title here
+author: Irvanjit Singh Gill
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  This space is dedicated to sharing stuff that I find cool
+  or interesting or am passionate about, including but not limited
+  to code.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://irvanjit.github.io" # the base hostname & protocol for your site
+twitter_username: irvanjit
+github_username:  irvanjit
+
+# Build settings
+markdown: kramdown
