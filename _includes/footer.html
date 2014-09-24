@@ -42,6 +42,15 @@
             </a>
           </li>
           {% endif %}
+
+          {% if site.stackoverflow_username %}
+          <li>
+            <a href="https://stackoverflow.com/users/{{ site.stackoverflow_username }}">stackoverflow
+              <span class="icon  icon--stackoverflow">
+              </span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 
