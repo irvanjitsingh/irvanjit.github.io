@@ -4,25 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Relevant:
-[tweets][twitter] |
-[code][github] | 
-<!-- [q&a on code][stackoverflow] | -->
-[old blog][wordpress]
-
-Not so much (or more so, depending on context):
-
 Student. Developer. Geek. Bookworm. Canadian. Sikh.
 
-School: Computer Engineering at the University of Waterloo.
+Academic: computer engineering at the University of Waterloo.
 
-Internships: web (backend, frontend), iOS, Android
+Experience: fullstack web, ios, android
 
 [More on that.][linkedin]
 
-I like making really cool and useful stuff.
+Relevant Links:
+[tweets][twitter] |
+[code][github] |
+[old blog][wordpress]
 
-I also really like the internet and want to help make it better.
+
 
 [github]:      http://github.com/irvanjit
 [twitter]: 		http://twitter.com/irvanjit
