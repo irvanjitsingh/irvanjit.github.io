@@ -1,26 +1,23 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Student. Developer. Geek. Bookworm. Canadian. Sikh.
-
-Academic: computer engineering at the University of Waterloo.
-
-Experience: fullstack web, ios, android
-
-[More on that.][linkedin]
-
-Relevant Links:
-[tweets][twitter] |
-[code][github] |
-[old blog][wordpress]
+<p class="message">
+<b>ਮੇਰਾ ਮਨੁ ਲੋਚੈ ਗੁਰ ਦਰਸਨ ਤਾਈ ॥ ਬਿਲਪ ਕਰੇ ਚਾਤ੍ਰਿਕ ਕੀ ਨਿਆਈ ॥ ਤ੍ਰਿਖਾ ਨ ਉਤਰੈ ਸਾਂਤਿ ਨ ਆਵੈ ਬਿਨੁ ਦਰਸਨ ਸੰਤ ਪਿਆਰੇ ਜੀਉ ॥੧॥ </b>
+<br>
+"My mind longs for the blessed vision of the Guru. It cries out like a thirsty song-bird. My thirst is not quenched, and I can find no peace, without the blessed vision of that beloved Saint. ||1||"<br><br>&mdash; The Fifth Master
+</p>
 
 
+Hi there, my name is Irvanjit. I'm an engineering student, bookworm, geek, and spiritual seeker.
 
-[github]:      http://github.com/irvanjit
-[twitter]: 		http://twitter.com/irvanjit
-<!--[stackoverflow]: 	http://stackoverflow.com/users/1227011/irvanjit-->
-[linkedin]: 	http://www.linkedin.com/in/irvanjit
-[wordpress]: 	http://irvanjit.wordpress.com
+I'm currently studying Computer Engineering at the [University of Waterloo](http://uwaterloo.ca/engineering)
+
+The inner geek: I like hacking on Python and Android projects on occasion. [Check out my GitHub](https://github.com/irvanjit)
+
+When I'm not at school or coding away, I enjoy listening to classical music (I'm training in something called [Gurmat Sangeet](http://www.rajacademy.com/history-of-gurmat-sangeet)), working out and meditating.
+
+Sometimes I rant about politics, society and community issues.
+<br>
+[Follow me on Twitter](https://twitter.com/irvanjit).
