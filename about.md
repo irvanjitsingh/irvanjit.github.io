@@ -12,12 +12,12 @@ title: About
 
 Hi there, my name is Irvanjit. I'm an engineering student, bookworm, geek, and spiritual seeker.
 
-I'm currently studying Computer Engineering at the [University of Waterloo](http://uwaterloo.ca/engineering)
+I'm currently studying Computer Engineering at the [University of Waterloo](http://uwaterloo.ca/engineering).
 
-The inner geek: I like hacking on Python and Android projects on occasion. [Check out my GitHub](https://github.com/irvanjit)
+The inner geek: I like hacking on Python and Android projects on occasion. [Check out my GitHub](https://github.com/irvanjit).
 
 When I'm not at school or coding away, I enjoy listening to classical music (I'm training in something called [Gurmat Sangeet](http://www.rajacademy.com/history-of-gurmat-sangeet)), working out and meditating.
 
 Sometimes I rant about politics, society and community issues.
-<br>
+
 [Follow me on Twitter](https://twitter.com/irvanjit).
