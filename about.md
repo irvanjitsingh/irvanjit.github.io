@@ -18,7 +18,7 @@ The inner geek: I like hacking on Python and Android projects on occasion. [Chec
 
 When I'm not at school or coding away, I enjoy listening to classical music (I'm learning something called [Gurmat Sangeet](http://www.rajacademy.com/history-of-gurmat-sangeet)), working out and meditating.
 
-I have an old [Wordpress blog](http://irvanjit.wordpress.com) that makes me cringe.
+I have an old [Wordpress blog](http://irvanjit.wordpress.com) that almost makes me cringe.
 
 Sometimes I rant about politics, society and various community issues (which deserves a blog of its own).
 [Follow me on Twitter](https://twitter.com/irvanjit).
