@@ -3,8 +3,6 @@ layout: page
 title: Projects
 ---
 
-Here's a list of some of the projects that I've worked on at various hackathons and on my own time.
-
 * [Discover Gurbani](https://github.com/sikhyouthfederation/discovergurbani)
 <br>
 Discover Gurbani is the first-ever open source, native Android search engine for the Sikh scriptures, providing several translations and transliterations for the  Download it on the play store [here](https://play.google.com/store/apps/details?id=com.irvanjit.discovergurbani))
