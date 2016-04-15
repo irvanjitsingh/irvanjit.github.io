@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
 <center>
+<p class="message">
 ਕਹਿਓ ਪ੍ਰਭੂ ਸੁ ਭਾਖਿ ਹੋਂ ॥ ਕਿਸੂ ਨ ਕਾਨ ਰਾਖਿ ਹੋਂ ॥ – P10
-</center>
 </p>
+</center>
 
 
 Hi there, my name is Irvanjit. I'm an engineering student at the University of Waterloo.
