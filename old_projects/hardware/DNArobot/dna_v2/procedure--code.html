@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title> Procedure / Code - DNA Robot Lab</title>
+
+<script type='text/javascript'>var STATIC_BASE = 'http://static-cdn.weebly.com/';</script><script type='text/javascript' src='http://static-cdn.weebly.com/weebly/images/common/prototype-1.6.0.3.js' ></script>
+<script type='text/javascript' src='http://static-cdn.weebly.com/weebly/images/common/effects-1.8.2.js' ></script>
+<script type='text/javascript' src='http://static-cdn.weebly.com/weebly/images/common/weebly.js' ></script>
+<script type='text/javascript' src='http://static-cdn.weebly.com/weebly/images/common/lightbox202.js?5' ></script>
+<script type='text/javascript' src='http://static-cdn.weebly.com/weebly/libraries/flyout_menus.js?2'></script>
+<script type='text/javascript'>function initFlyouts(){initPublishedFlyoutMenus([{"id":"168690957150606","title":"Home","url":"index.html"},{"id":"534941835258224","title":"Materials","url":"materials.html"},{"id":"382696477829671","title":"Schematic","url":"schematic.html"},{"id":"844356729631829","title":"Procedure \/ Code","url":"procedure--code.html"},{"id":"343986283167982","title":"Observations","url":"observations.html"}],'844356729631829','<li class=\'weebly-nav-more\'><a href=\"#\">more...</a></li>','active')}if (Prototype.Browser.IE) window.onload=initFlyouts; else document.observe('dom:loaded', initFlyouts);</script>
+<link rel='stylesheet' href='http://static-cdn.weebly.com/weebly/images/common/common.css?4' type='text/css' />
+<link rel='stylesheet' type='text/css' href='files/main_style.css' title='weebly-theme-css' />
+</head>
+
+<body class="weeblypage-procedure-code" >
+<!-- Header -->
+<div id="header" class="box">
+    <div class="main">
+
+        <!-- Your logo -->
+        <h1 id="logo">DNA Robot Lab</h1>
+        <hr class="noscreen" />
+
+    </div> <!-- /main -->
+
+</div> <!-- /header -->
+
+<div class="main bg box">
+
+    <!-- Navigation -->
+    <div id="nav" class="box">    
+
+	
+<ul>
+  
+  <li id='pg168690957150606'><a href="index.html">Home</a></li><li id='pg534941835258224'><a href="materials.html">Materials</a></li><li id='pg382696477829671'><a href="schematic.html">Schematic</a></li><li id="active"><a href="procedure--code.html">Procedure / Code</a></li><li id='pg343986283167982'><a href="observations.html">Observations</a></li>
+</ul>
+
+    <hr class="noscreen" />
+
+    </div> <!-- /nav -->
+
+    <div class="box">
+        <div id="content">
+		<!-- WEEBLY_START_CONTENT --><h2  style=" text-align: left; ">Procedure</h2>
+<div  class="paragraph" style=" text-align: left; display: block; "><ul>  <li>Download the Proton IDE from <a href="http://www.picbasic.org/proton_lite.php">here</a>.   </li><li>Install the Proton IDE.   </li><li>Copy and paste this code into the editor window:<br /><em><strong><font size="2">Device </font><font color="#000080" size="2"><font color="#000080" size="2">16F628A<br /><br /></font></font><font color="#800000" size="2"><font color="#800000" size="2">REMARKS</font></font></strong><font color="#800000" size="2"></font><font size="2"><font color="#000000">=</font><strong><font color="#000000">On</font><br /><br />Config </strong>WDT_OFF, BODEN_ON,INTRC_OSC_NOCLKOUT,LVP_OFF,CP_OFF, PWRTE_ON, MCLRE_OFF<br /><br /><strong>Dim </strong>MyCounter <strong>As Byte<br /><br />Dim </strong>BasePair <strong>As Byte<br /><br />Symbol </strong>L1 = </font><font color="#008000" size="2"><font color="#008000" size="2">PORTA</font></font><font size="2">.2<br /><br /><strong>Symbol </strong>L2 = </font><font color="#008000" size="2"><font color="#008000" size="2">PORTA</font></font><font size="2">.3<br /><br /><strong>Symbol </strong>L3 = </font><font color="#008000" size="2"><font color="#008000" size="2">PORTA</font></font><font size="2">.0<br /><br /><strong>Symbol </strong>L4 = </font><font color="#008000" size="2"><font color="#008000" size="2">PORTA</font></font><font size="2">.1<br /><br /></font><em><font color="#000080" size="2"><font color="#000080" size="2">;TRISA=%01000000 ;Set Port "A", to output<br /><br /></font></font></em><font color="#000080" size="2"></font><font color="#008000" size="2"><font color="#008000" size="2">TRISA</font></font><font size="2"><font color="#000000">=0x00</font><br /><br /></font><font color="#008000" size="2"><font color="#008000" size="2">TRISB</font></font><font size="2"><font color="#000000">=0x00</font><br /><br />LOOP:<br /><br /><strong>For </strong>MyCounter = 0 <strong>To </strong>62 <strong>Step </strong>1<br /><br /><strong>Let </strong></font><font color="#008000" size="2"><font color="#008000" size="2">PORTA </font></font><font size="2">= %00000000 <br /><br />BasePair = <strong>LRead </strong>DNA + MyCounter <br /><br /><strong>If </strong>BasePair = </font><font color="#008000" size="2"><font color="#008000" size="2">"G" </font></font><strong><font size="2">Then<br /><br /></font></strong><font size="2"><strong>Let </strong></font><font color="#008000" size="2"><font color="#008000" size="2">PORTA </font></font><font size="2">= %10100000<br /><br /><strong>DelayMS </strong>1000<br /><br /><strong>EndIf<br /><br />If </strong>BasePair = </font><font color="#008000" size="2"><font color="#008000" size="2">"A" </font></font><strong><font size="2">Then<br /><br />High </font></strong><font size="2">L2<br /><br /><strong>DelayMS </strong>1000 <br /><br /><strong>EndIf <br /><br />If </strong>BasePair = </font><font color="#008000" size="2"><font color="#008000" size="2">"T" </font></font><strong><font size="2">Then<br /><br />High </font></strong><font size="2">L3<br /><br /><strong>DelayMS </strong>1000 <br /><br /><strong>EndIf <br /><br />If </strong>BasePair = </font><font color="#008000" size="2"><font color="#008000" size="2">"C" </font></font><strong><font size="2">Then<br /><br />Let </font></strong><font color="#008000" size="2"><font color="#008000" size="2">PORTA </font></font><font size="2">= %01010000<br /><br /><strong>DelayMS </strong>1000 <br /><br /><strong>EndIf <br /><br />Next <br /><br />End<br /><br /></strong>DNA:<br /><br /><strong>LData </strong></font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"G"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"G"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"<br /><br /></font></font><strong><font size="2">LData </font></strong><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"G"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"G"<br /><br /></font></font><strong><font size="2">LData </font></strong><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"<br /><br /></font></font><strong><font size="2">LData </font></strong><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"<br /><br /></font></font><strong><font size="2">LData </font></strong><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"G"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"<br /><br /></font></font><strong><font size="2">LData </font></strong><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"G"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"<br /><br /></font></font><strong><font size="2">LData </font></strong><font color="#008000" size="2"><font color="#008000" size="2">"G"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"T"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"G"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"A"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"</font></font><font size="2">,</font><font color="#008000" size="2"><font color="#008000" size="2">"C"<br /><br /></font></font></em></li></ul></div>
+
+<div  class="paragraph" style=" text-align: left; ">A brief code explanation:<br /><ul><li>The program configures PORTA and PORTB as outputs<br /></li><li>Defines DNA code at the bottom of the program using LDATA statements</li><li>The program then iterates through the data using a FOR-NEXT-LOOP and analyzes it using IF-THEN-ELSE statements</li><li>If a certain letter is detected it outputs high to a certain pin, causing the motors to turn in certain way, moving the robot<br /></li></ul></div>
+
+<div ><div style="text-align: center;"><a><img src="uploads/1/3/4/2/1342118/1833266.jpg?606" style="margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px; border-width:1px;padding:3px;" alt="Picture" class="galleryImageBorder" /></a><div style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px;"></div></div></div>
+
+<div  class="paragraph" style=" text-align: left; "><UL> <LI>DNA Code: Human Chromosome 1 (Human Genome Project) (source: <A href="http://www.gutenberg.org/etext/3501">http://www.gutenberg.org/etext/3501</A>)<br /> <LI>Compile the code.  <LI>Load the hex file onto the 16F628 microcontroller using MPLAB PICKit 2.  <LI>The code in the chip can be tested by using 4 LEDs to output from the first 2 and the last 2 pins of the chip  <LI>The LEDs should turn on and off at 1 second intervals in the order of the DNA code in the program<br /> <LI>Install the chip on the circuit.  <LI>Follow the schematic included in the schematics section  <LI>The circuit requires 1 H-bridge per motor. Therefore, in total, there needs to be 2 H-bridges  <LI>A small pencil would have to be mounted in front of the robot, so that there is less resistance on the motors</LI></UL></div>
+
+
+        </div> <!-- /content -->
+
+        <hr class="noscreen" />
+    
+    </div> <!-- /box -->
+
+    <hr class="noscreen" />
+
+</div> <!-- /main -->
+
+</body>
+</html>

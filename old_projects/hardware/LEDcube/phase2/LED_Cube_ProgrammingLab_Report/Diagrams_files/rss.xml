@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>diagrams</title>
+    <link>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams.html</link>
+    <description>diagrams</description>
+    <item>
+      <title>LED Cube Schematic</title>
+      <link>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams.html#0</link>
+      <guid isPermaLink="false">66018c3a-3aa0-4d47-81a9-12dfd1ef5907</guid>
+      <enclosure url="file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/LED%20Cube%20Schematic/LED%20Cube%20Schematic.jpg" length="75510" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/LED%20Cube%20Schematic/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/LED%20Cube%20Schematic/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_182_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;LED Cube Schematic&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Breadboard Pictorial</title>
+      <link>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams.html#1</link>
+      <guid isPermaLink="false">234ca2de-3f5d-4b12-ba7f-52c57e314f94</guid>
+      <enclosure url="file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/Breadboard%20Pictorial/Breadboard%20Pictorial.jpg" length="97474" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/Breadboard%20Pictorial/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/Breadboard%20Pictorial/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_182_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Breadboard Pictorial&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>LED Cube Reference Table</title>
+      <link>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams.html#2</link>
+      <guid isPermaLink="false">affdc4c2-f0d2-41bf-9d2e-7097337a5559</guid>
+      <enclosure url="file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/LED%20Cube%20Reference%20Table/LED%20Cube%20Reference%20Table.jpg" length="33857" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/LED%20Cube%20Reference%20Table/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/Irvan/Documents/Computer%20Engineering/Labs/LED_Cube_ProgrammingLab_Report/Diagrams_files/Media/LED%20Cube%20Reference%20Table/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_182_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;LED Cube Reference Table&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
