@@ -55,13 +55,11 @@ hr {
   padding: 0px 0px 0px 0px;
   border-collapse: collapse;
 }
-#header-links {
-  align-content: center
-}
+#header-links {}
 .link-icon {
-  width: 15px;
-  max-width: 15px;
-  padding-top: 2px;
+  width: 13px;
+  max-width: 13px;
+  padding-top: 3px;
   padding-right: 4px;
 }
 .title {
