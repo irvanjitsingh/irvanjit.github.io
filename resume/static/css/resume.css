@@ -32,12 +32,17 @@ hr {
     /*max-width: 75%;*/
   }
 }
+@media screen {
+  #links-printonly {
+    display: none;
+  }
+}
 @media print {
   body {
     font-size: 80%;
     max-width: 100%;
   }
-  #header-links {
+  #links-siteonly {
     display: none;
   }
 }
@@ -49,6 +54,15 @@ hr {
   text-align: center margin: 0px;
   padding: 0px 0px 0px 0px;
   border-collapse: collapse;
+}
+#header-links {
+  align-content: center
+}
+.link-icon {
+  width: 15px;
+  max-width: 15px;
+  padding-top: 2px;
+  padding-right: 4px;
 }
 .title {
   padding: 1px 0px 1px 0px;
