@@ -43,11 +43,12 @@ ul {
   padding-top: 5px;
 }
 .link-icon {
-  width: 13px;
-  max-width: 13px;
-  padding-top: 3px;
-  padding-right: 4px;
-  text-align: center margin: 0px;
+  width: 17px;
+  max-width: 17px;
+  padding-left: 0px;
+  padding-right: 2px;
+  margin-left: 2px;
+  vertical-align: text-bottom;
 }
 .section {
   padding: 4px 0px 10px 0px;
