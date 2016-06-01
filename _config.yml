@@ -13,9 +13,13 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Irvanjit Singh Gill
+  name:              Irvanjit Singh
   url:               https://irvanjit.com
-  email:             contact@irvanjit.com
+  email:             me@irvanjit.com
+  twitter:           irvanjit
+  github:            irvanjit
+  stackoverflow:     irvanjit
+  linkedin:          irvanjit
 
 # Custom vars
 version:             1.0.0
