@@ -50,6 +50,11 @@ ul {
   margin-left: 2px;
   vertical-align: text-bottom;
 }
+i {
+  padding-left: 0px;
+  padding-right: 3px;
+  margin-left: 4px;
+}
 .section {
   padding: 4px 0px 10px 0px;
   margin: 0px;
