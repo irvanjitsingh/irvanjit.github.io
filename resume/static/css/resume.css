@@ -6,6 +6,9 @@ body {
   padding-right: 20px;
   align-content: center;
 }
+a {
+  text-decoration: none;
+}
 ul {
   margin-top: 2px;
   margin-bottom: 2px;
