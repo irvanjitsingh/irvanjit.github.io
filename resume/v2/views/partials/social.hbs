@@ -1,0 +1,13 @@
+{{#if network}}
+    {{#if username}}
+        {{#is (lowercase network) "linkedin"}}
+            {{> info-tag-social text=(concat 'in/' this.username) icon="fa-linkedin-square" }}
+        {{else}}
+            {{#is (lowercase network) "stack-overflow"}}
+                {{> info-tag-social text=(concat 'cv/' this.username) icon="fa-stack-overflow" }}
+            {{else}}
+                 {{> info-tag-social text=this.username icon=(concat "fa-" (lowercase network)) }}
+            {{/is}}
+        {{/is}}
+    {{/if}}
+{{/if}}

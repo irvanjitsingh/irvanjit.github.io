@@ -1,0 +1,39 @@
+{{#if resume.education.length}}
+<div class="container education-container">
+    {{> title value="education"}}
+
+    {{#each resume.education}}
+        <section class="item">
+            {{#if logo}}
+                <div class="org-logo pull-left">
+                    <img src="{{logo}}" alt="">
+                </div>
+            {{/if}}
+            <div>
+                {{> section-header name=this.institution }}
+            </div>
+
+            <h4 class="study-type">{{#if studyType}}{{studyType}}{{/if}}</h4>
+            <h4 class="study-area">{{#if area}}{{area}}{{/if}}</h4>
+            <h4 class="graduating">{{#if graduating}}{{graduating}}{{/if}}</h4>
+
+            {{#if gpa}}
+            <h5>{{gpa}}</h5>
+            {{/if}}
+
+            {{#if courses.length}}
+            <ul class="minimal">
+                {{#each courses}}
+                    <li><h6>{{.}}</h6></li>
+                {{/each}}
+            </ul>
+            <!-- <ul class="two-column">
+                {{#each courses}}
+                <li>{{.}}</li>
+                {{/each}}
+            </ul> -->
+            {{/if}}
+        </section>
+    {{/each}}
+</div>
+{{/if}}
