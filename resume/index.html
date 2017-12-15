@@ -1,197 +1,825 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+	<title>Irvanjit Singh Gill</title>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<style>
+		/* Utils */
+/*----- Colors -----*/
+/*----- Fonts -----*/
+/*----- Dimensions and sizes -----*/
+/* Base */
+body {
+  background: #f8f8f8;
+  margin: 50px 0 100px;
+  letter-spacing: .3px;
+  color: #39424B; }
 
-<head>
-  <title>Irvanjit Singh - Resume</title>
-  <link rel="stylesheet" type="text/css" href="static/css/resume.css">
-  <link rel="stylesheet" href="static/css/font-awesome.min.css">
-  <!--<script src="https://use.fontawesome.com/irvanjit.js"></script>-->
-</head>
+h1, h2, h3, h4, h5, h6 {
+  margin: 0; }
 
-<body>
+h1, h2, h3 {
+  text-transform: uppercase; }
 
-  <div class="header">
-    <table id="header" width="100%">
-      <tr>
-        <td id="header-title" width="50%" align="left">
-          <h1 id="title-main">Irvanjit Singh Gill</h1>
-        </td>
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 38px;
+  letter-spacing: 1px; }
 
-        <td id="header-links" width="50%" align="right">
-          <!--<div class="links-printonly">
-					</div>-->
-          <div class="links-siteonly">
-            <br>
-          </div>
-          <span>
-          	me@irvanjit.com
-          	<br>
-          </span>
-          <span>
-          	+1 (226) 989 2694
-          	<br>
-          </span>
-          <span>
-	          <i class="fa fa-github-alt"></i><a href="https://github.com/irvanjit">/irvanjit</a>
-	          <i class="fa fa-stack-overflow"><a href="https://stackoverflow.com/cv/irvanjit"></i>/cv/irvanjit</a>
-	          <i class="fa fa-linkedin-square"></i><a href="https://linkedin.com/in/irvanjit">/in/irvanjit</a>
-          </span>
-          <br>
-          <div class="links-siteonly" id="download">
-            <a href="https://www.dropbox.com/s/irk8bckp21rpdo4/resume.pdf?dl=1">download</a> | <a href="https://www.dropbox.com/s/re37qnu0jt2k8cv/resume-irvanjit-old.pdf?dl=0">pdf</a>
-            <br>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: .5px; }
 
-  <div class="section" id="work experience">
-    <h3 class="section-title">Experience</h3>
-    <hr class="section-divider">
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: .4px;
+  margin-bottom: 2px; }
+  h3.bold {
+    font-weight: 600; }
 
-    <div class="entry">
-      <!-- <table width="100%"><tr><td class="entry-title">...</td></tr></table> -->
-      <div class="entry-title">
-        <i>Software Engineering Intern, iPhone Operations</i> &#151 <b>Apple</b>, Cupertino CA, September &#151 December 2016
-      </div>
-      <ul>
-        <li>Refactored data storage backed for an iOS application</li>
-        <li>Implemented a pilot A/B test feature for an iOS application</li>
-        <li>Configured a CI Automation server and wrote a complete UI test suite for existing software products</li>
-      </ul>
-    </div>
+h4 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 12px; }
+  h4.bold {
+    font-weight: 700; }
 
-    <div class="entry">
-      <!-- <table width="100%"><tr><td class="entry-title">...</td></tr></table> -->
-      <div class="entry-title">
-        <i>Mobile Developer</i> &#151 <b>Clearbridge Mobile</b>, Vaughan ON, January &#151 April 2016
-      </div>
-      <ul>
-        <li>Responsible for multiple client projects on both Android and iOS</li>
-        <li><b>Rethink Tires</b> (Play Store: <a href="http://bit.ly/rthDroid">bit.ly/rthDroid</a>, App Store: <a href="http://bit.ly/rthApple">bit.ly/rthApple</a>)
-          <ul>
-            <li>Architected and developed the entire Android product and the base iOS product from scratch</li>
-          </ul>
-        </li>
-        <li>Feature development and integrations for <b>NBC Telemundo</b> and <b>UGO Mobile Wallet</b>
-      </ul>
-    </div>
+h5 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 10px; }
 
-    <div class="entry">
-      <div class="entry-title">
-        <i>Automation Engineering Intern</i> &#151 <b>Toast</b>, Cambridge MA, January &#151 April 2015
-      </div>
-      <ul>
-        <li>Worked on QA Automation and Core Product Development teams for <b>Toast POS</b> (Android and web)</li>
-        <li>Automation: Developed tools to automate integration testing - <i>Selenium, Appium, JUnit, Jenkins CI</i></li>
-        <li>Core Product (dev): Worked on new features and bug fixes - <i>Android, Java Play</i></li>
-      </ul>
-    </div>
+h6 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 10px; }
 
-    <div class="entry">
-      <div class="entry-title">
-        <i>PHP Programmer</i> &#151 <b>Vectorface</b>, Ottawa ON, May &#151 August 2014
-      </div>
-      <ul>
-        <li>Rewrote an in-house localization web tool from scratch - <i>AngularJS, Bootstrap</i></li>
-        <li>Implemented existing functionality and added new features to improve utility and UX</li>
-      </ul>
-    </div>
+a {
+  color: inherit;
+  text-decoration: inherit; }
+  a:hover {
+    color: #2895F1; }
+  a .fa-external-link {
+    font-size: 10px;
+    vertical-align: text-top; }
 
-    <div class="entry">
-      <div class="entry-title">
-        <i>iOS Developer</i> &#151 <b>Vitalhub</b>, Toronto ON, May &#151 August 2013
-      </div>
-      <ul>
-        <li>Worked on feature development and optimizations for <b>Vitalhub Chart iOS</b> (<a href="http://bit.ly/vitalhub">bit.ly/vitalhub</a>)</li>
-        <li>Implemented features involving chart data plotting, image viewing, as well as bug fixes on both iPhone and iPad</li>
-        <li>Deprecated legacy iOS 5 code and updated to semantic view designs using new SDK capabilities</li>
-      </ul>
-    </div>
+p,
+li {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 10px; }
 
-    <div class="entry">
-      <div class="entry-title">
-        <i>Application Developer</i> &#151 <b>Symbility Intersect</b> (formerly BNOTIONS), Toronto ON, September &#151 December 2012
-      </div>
-      <ul>
-        <li>Worked on web teams for multiple client projects</li>
-        <li>Designed, implemented and tested server-side features, REST APIs - <i>Python (Django), Java</i></li>
-        <li>Implemented a Flask backend for an internal metrics dashboard</li>
-      </ul>
-    </div>
+blockquote {
+  font-size: 11px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 25px; }
 
-    <div class="entry">
-      <div class="entry-title">
-        <i>Software Development and Test Engineering</i> &#151 <b>IBM</b>, Ottawa ON, January &#151 April 2012
-      </div>
-      <ul>
-        <li>Worked on the Cognos Business Analytics web team</li>
-        <li>Bug fixes and sanity/performance testing for a11y functionality - <i>Dojo, CSS, Firebug, Eclipse</i></li>
-      </ul>
-    </div>
-  </div>
+em {
+  color: #999; }
 
-  <div class="section" id="education">
-    <h3 class="section-title">Education</h3>
-    <hr class="section-divider">
-    <div class="entry">
-      <div class="entry-title">
-        <b>Candidate for Bachelor of Applied Science</b>,
-        <br>Honours Computer Engineering, Co-op &#151 <i>University of Waterloo</i>, Waterloo ON, September 2011 &#151 Present
-      </div>
-    </div>
-  </div>
+ul {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  margin: 5px 0 0;
+  -webkit-padding-start: 25px; }
+  ul li {
+    padding-left: 10px; }
+  ul.minimal {
+    list-style: none;
+    padding: 0; }
+    ul.minimal li {
+      margin-bottom: 3px;
+      padding-left: 0; }
+  ul.two-column {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 28px;
+    column-count: 2;
+    column-gap: 28px; }
+    ul.two-column li {
+      padding-left: 0; }
 
-  <div class="section" id="projects">
-    <h3 class="section-title">Projects</h3>
-    <hr class="section-divider">
+@page {
+  size: A4; }
 
-    <div class="entry">
-      <b>Discover Gurbani</b> &#151 Github: <a href="https://git.io/vwdeF">git.io/vwdeF</a>, Play Store: <a href="http://bit.ly/dscvDroid">bit.ly/dscvDroid</a>
-      <ul>
-        <li>Android app to search and read the Sikh scriptures in multiple languages</li>
-      </ul>
-    </div>
+.container {
+  padding-top: 15px; }
 
-    <div class="entry">
-      <b>Quaterloo</b> &#151 <a href="https://github.com/irvanjit/quaterloo">github.com/irvanjit/quaterloo</a>, <a href="https://quaterloo.herokuapp.com">quaterloo.herokuapp.com</a>
-      <ul>
-        <li>Rewrite of Angelhack TO project 'uwcollab', an Academic Q&ampA/Discussion platform for UW students</li>
-        <li>Built using <i>Django, Foundation, jQuery, socketio</i></li>
-      </ul>
-    </div>
+.section-title {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding-bottom: 4px; }
 
-    <div class="entry">
-      <b>Mango</a></b> &#151 MHacks 2013, <a href="https://github.com/irvanjit/mhacks-13">github.com/irvanjit/mhacks-13</a>
-      <ul>
-        <li>NFC server-synchronized Contacts sharing for Android; implemented Django backend</li>
-      </ul>
-    </div>
+.keyline {
+  width: 45px;
+  margin: 5px 0 10px;
+  border-top: 1px solid #0077B5; }
 
-    <div class="entry">
-      <b>hardware projects</b> &#151 <a href="http://irvanjit.com/old_projects/hardware/index.html">irvanjit.com/old_projects/hardware</a>
-      <ul>
-        <!--<li><b>DNA robot</b>: Robot that uses genome sequence data to visualize strand patterns via actuators</li>
-        <li><b>3D LED display</b>: Programmable 3D LED dot-matrix display - <i>PICAXE, BASIC</i></li>-->
-        <!--<li>Designed and built a small wheel-driven robot that uses DNA genetic sequence code (obtained from the Human Genome Project) to visualize the sequences through sketches</li>
-            <li>Implemented a breadboard-mounted H-Bridge circuit using PICAXE and BASIC</li>-->
-      </ul>
-    </div>
-  </div>
+.pull-left {
+  float: left; }
 
-  <div class="section" id="skills">
-    <h3 class="section-title">Skills</h3>
-    <hr class="section-divider">
-    <ul>
-      <li>Proficiency in <b>web</b> and <b>mobile</b> application development on <b>Android</b>, <b>iOS</b> and various web frameworks</li>
-      <li>Dev-Ops experience: server, web-server, database configuration and management</li>
-      <li><b>Languages: </b>Python, Java, JavaScript, PHP, Objective-C, C#, C++, C</li>
-      <li><b>Platforms/Technologies: </b>Git, SVN, Mercurial, MySQL, PostgreSQL, Redis, Django, Flask, Node, Angular, jQuery, Sass, Meteor, Heroku, Puppet, Celery</li>
-      <!--<li><b>Hardware: </b>VHDL, ARM-Assembly, microcontrollers, embedded systems, soldering/wiring, robotics</li>-->
-    </ul>
-  </div>
+.pull-right {
+  float: right; }
 
-</body>
+.study-type {
+  font-weight: 550; }
 
+.work-details {
+  margin: 0;
+  padding-left: 20px; }
+
+.study-area {
+  font-weight: lighter;
+  font-style: italic; }
+
+.graduating {
+  font-weight: 550; }
+
+.courses {
+  font-size: 0.8px; }
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.profile-pic {
+  margin-top: -5px;
+  margin-right: 18px; }
+  .profile-pic img {
+    height: 52px;
+    width: 52px;
+    border-radius: 50%;
+    border: 2px solid #0077B5; }
+
+.about-info {
+  margin-left: 22px; }
+
+.location {
+  font-size: 8.8px; }
+
+.logo-col-left {
+  float: left; }
+
+.work-title {
+  margin-left: 45px; }
+
+.company-title {
+  margin-left: 30px; }
+
+.education-title {
+  float: none; }
+
+.resume-header {
+  color: #f8f8f8; }
+
+.org-logo {
+  margin-right: 5px;
+  display: inline-flex; }
+  .org-logo img {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%; }
+
+.startDate {
+  font-size: 10px; }
+
+.endDate {
+  font-size: 10px; }
+
+.summary {
+  margin: 5px 0 5px; }
+
+/* Layouts */
+.page {
+  background: white;
+  width: 612px;
+  min-height: 792px;
+  display: block;
+  margin: 0 auto;
+  border-top: 0px solid #0077B5;
+  padding: 18px 22px 30px 34px;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+  background: linear-gradient(0deg, #ffffff 90%, #0077B5 10%); }
+  .page:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+.left-column {
+  float: left;
+  width: 67%;
+  margin-right: 22px;
+  word-wrap: break-word; }
+
+.right-column {
+  width: 174px;
+  overflow: hidden;
+  word-wrap: break-word; }
+
+.item {
+  margin-bottom: 15px; }
+  .item:last-child {
+    margin-bottom: 0; }
+
+@media print {
+  body {
+    margin: 0; }
+  .page {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 28px 0 28px;
+    box-shadow: none; }
+    .page .resume-header,
+    .page .resume-content {
+      padding: 10px 22px 10px 34px; }
+  .container {
+    page-break-inside: avoid; }
+  .work-container .item {
+    page-break-inside: avoid; }
+  .fa-external-link {
+    display: none; } }
+
+/* Components */
+.info-tag-container {
+  margin-top: 0px;
+  margin-botton: 0px; }
+  .info-tag-container .fa {
+    font-size: 14px;
+    width: 12px;
+    margin-right: 0.5px;
+    text-align: center;
+    vertical-align: middle; }
+    .info-tag-container .fa.fa-map-marker {
+      font-size: 16px; }
+    .info-tag-container .fa.fa-mobile {
+      font-size: 18px; }
+    .info-tag-container .fa.fa-envelope-o {
+      font-size: 12px; }
+    .info-tag-container .fa.fa-desktop {
+      font-size: 11px; }
+    .info-tag-container .fa.fa-external-link {
+      width: auto;
+      font-size: inherit;
+      vertical-align: text-top; }
+  .info-tag-container .info-text {
+    font-size: 9px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 151px; }
+
+.info-tag-social-container {
+  margin-bottom: 0px; }
+  .info-tag-social-container .fa {
+    font-size: 14px;
+    width: 12px;
+    margin-right: 0.5px;
+    text-align: center;
+    vertical-align: middle; }
+    .info-tag-social-container .fa.fa-map-marker {
+      font-size: 16px; }
+    .info-tag-social-container .fa.fa-mobile {
+      font-size: 18px; }
+    .info-tag-social-container .fa.fa-envelope-o {
+      font-size: 12px; }
+    .info-tag-social-container .fa.fa-desktop {
+      font-size: 11px; }
+    .info-tag-social-container .fa.fa-external-link {
+      width: auto;
+      font-size: inherit;
+      vertical-align: text-top; }
+  .info-tag-social-container .info-text {
+    font-size: 9px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 1; }
+
+.references-container .fa {
+  font-size: 14px; }
+
+	</style>
+	</head>
+	<body>
+		<main id="resume" class="page">
+			<header class="resume-header clearfix">
+			    <!-- <div class="profile-pic pull-left">
+			        <img src="http://gravatar.com/avatar/5482f1dfaddeecc1c8ffed3f73e903b5" alt="profile-pic">
+			    </div> -->
+			    <div class="profile-header pull-left">
+			        <h1>Irvanjit Singh Gill</h1>
+			        <h3 label>Waterloo Computer Engineering</h3>
+			    </div>
+			    <div class="about-info pull-right">
+			          <div class="info-tag-container">
+			              <i class="fa fa-envelope-o"></i>
+			          
+			                  <h6 class="info-text">me@irvanjit.com</h6>
+			          </div>
+			
+			          <div class="info-tag-container">
+			              <i class="fa fa-mobile"></i>
+			          
+			                  <h6 class="info-text">+1 (226) 989-2694</h6>
+			          </div>
+			
+			      <span class="social-links">
+			                                   <span class="info-tag-social-container">
+			                                       <i class="fa fa-github"></i>
+			                                   
+			                                           <h6 class="info-text">
+			                                               <a href="https://github.com/irvanjit" target="_blank">
+			                                                   irvanjit
+			                                                   <!-- irvanjit <i class="fa fa-external-link" aria-hidden="true"></i> -->
+			                                               </a>
+			                                           </h6>
+			                                   </span>
+			                                  <span class="info-tag-social-container">
+			                                      <i class="fa fa-stack-overflow"></i>
+			                                  
+			                                          <h6 class="info-text">
+			                                              <a href="https://stackoverflow.com/cv/irvanjit" target="_blank">
+			                                                  cv/irvanjit
+			                                                  <!-- cv/irvanjit <i class="fa fa-external-link" aria-hidden="true"></i> -->
+			                                              </a>
+			                                          </h6>
+			                                  </span>
+			                              <span class="info-tag-social-container">
+			                                  <i class="fa fa-linkedin-square"></i>
+			                              
+			                                      <h6 class="info-text">
+			                                          <a href="https://linkedin.com/in/irvanjit" target="_blank">
+			                                              in/irvanjit
+			                                              <!-- in/irvanjit <i class="fa fa-external-link" aria-hidden="true"></i> -->
+			                                          </a>
+			                                      </h6>
+			                              </span>
+			      </span>
+			    </div>
+			</header>
+			<div class="resume-content">
+				<aside class="left-column">
+					<div class="container work-container">
+					    <div class="title">
+					        <h3 class="section-title">experience</h3>
+					        <!-- <div class="keyline"></div> -->
+					    </div>
+					
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://pbs.twimg.com/profile_images/532670656958062593/1ni5YUwj_400x400.jpeg" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="https://khalisfoundation.org" target="_blank">
+					                                    Khalis Foundation <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Remote</span> |
+					                                <span class="startDate">Dec 2017</span>
+					                                <span class="endDate"> - Present</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">Volunteer Developer, Part-time</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Maintaining keertan.net (audio streaming platform)</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="http://is1.mzstatic.com/image/thumb/Purple128/v4/85/f9/7f/85f97f1d-6b60-3b21-fb1a-89a5ef0ca889/source/175x175bb.jpg" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="http://gursevak.com/" target="_blank">
+					                                    Gursevak.com <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Remote</span> |
+					                                <span class="startDate">May 2016</span>
+					                                <span class="endDate"> - Present</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">Volunteer Developer, Part-time</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Maintaining the charity&#x27;s Android, iOS apps (app2.it/guios, goo.gl/gUgvJ6)</li>
+					                <li>Rewriting for speed/UX improvements, bug fixes and new features</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAUbAAAAJGYwODUzYTEyLWY5MDctNDQzNy1iMmI1LWNmODkxOWYyYTJlNw.png" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="https://tesla.com" target="_blank">
+					                                    Tesla <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Palo Alto, CA</span> |
+					                                <span class="startDate">Sep 2017</span>
+					                                <span class="endDate"> - Dec 2017</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">Intern, Engineering Services - Infrastructure</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Implementing a load testing framework for internal PLM software (JMeter)</li>
+					                <li>Automating functional and load testing and reporting frameworks</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAnSAAAAJDU1YzJmNDRmLWZkYjgtNDVjOS05YzdjLWRiMWJkMjQyNzgwYw.png" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="https://apple.com" target="_blank">
+					                                    Apple <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Cupertino, CA</span> |
+					                                <span class="startDate">Aug 2016</span>
+					                                <span class="endDate"> - Dec 2016</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">SWE Intern, iPhone Product Operations</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Implemented clientside features for AB testing on an internal mobile app</li>
+					                <li>Performed data analysis of production test results (Tableau)</li>
+					                <li>Developed a UI test suite with CI to automate internal iOS testing</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://media.licdn.com/mpr/mpr/shrink_100_100/p/1/005/03a/04c/226d00d.png" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="https://clearbridgemobile.com/" target="_blank">
+					                                    Clearbridge Mobile <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Woodbridge, ON</span> |
+					                                <span class="startDate">Jan 2016</span>
+					                                <span class="endDate"> - Apr 2016</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">Mobile Developer</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Architected, developed, shipped Rethink Tires Android ( bit.ly/rthDroid )</li>
+					                <li>Implemented features: NBC Telemundo, UGO Wallet, Rethink Tires iOS</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAVUAAAAJDE0Mjg1ZGU0LTMzZjgtNDI2MC05OGJkLTU5NmU1ZGUyNTcxZg.png" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="https://pos.toasttab.com/" target="_blank">
+					                                    Toast <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Cambridge, MA</span> |
+					                                <span class="startDate">Jan 2015</span>
+					                                <span class="endDate"> - May 2015</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">Automation Engineering Intern</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Developed framework to automate integration testing for Toast POS on web and mobile (Java, JUnit, Selenium, Appium, Jenkins CI)</li>
+					                <li>Implemented features, bug fixes for Android, web clients (Java Play)</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://media.licdn.com/mpr/mpr/shrink_100_100/p/4/000/183/14e/14205fd.png" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="http://vectorface.com/" target="_blank">
+					                                    Vectorface <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Ottawa, ON</span> |
+					                                <span class="startDate">May 2014</span>
+					                                <span class="endDate"> - Aug 2014</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">PHP Programmer</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Rewrote an internal localization web tool (AngularJS, Bootstrap)</li>
+					                <li>Improved utility and UX significantly from existing functionality</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://media.licdn.com/mpr/mpr/shrink_100_100/p/3/000/106/29d/08b0a8e.png" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="http://vitalhub.com/" target="_blank">
+					                                    Vitalhub <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Toronto, ON</span> |
+					                                <span class="startDate">May 2013</span>
+					                                <span class="endDate"> - Aug 2013</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">iOS Developer</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Implemented features, bug fixes for Vitalhub Chart iOS ( bit.ly/vitalhub )</li>
+					                <li>Refactored legacy UI implementations to use semantic view designs</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAlIAAAAJGJiY2UzN2IzLWFlNDYtNGZkMC1hMWY3LWE3ZTIyMmYwNzc0NA.png" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="https://www.symbilitysolutions.com/symbility-intersect/" target="_blank">
+					                                    BNOTIONS <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Toronto, ON</span> |
+					                                <span class="startDate">Sep 2012</span>
+					                                <span class="endDate"> - Dec 2012</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">Application Developer</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Implemented serverside features, APIs for client projects (Django)</li>
+					                <li>Implemented backend for an internal team metrics dashboard (Flask)</li>
+					            </ul>
+					        </section>
+					        <section class="item">
+					            <div class="org-title-container">
+					                <div class="org-logo logo-col-left">
+					                  <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAf_AAAAJGYzOTZiMmE1LTJmYzctNDVkMC1hZTkzLTE2NzNmNTVhNTE2YQ.png" alt="">
+					                </div>
+					                <div class="logo-col-right">
+					                    <div class="company-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                <a href="https://www.ibm.com/ca-en/" target="_blank">
+					                                    IBM Canada <i class="fa fa-external-link" aria-hidden="true"></i>
+					                                </a>
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                              <span class="location">Ottawa, ON</span> |
+					                                <span class="startDate">Jan 2012</span>
+					                                <span class="endDate"> - Apr 2012</span>
+					                        </h5>
+					                    </div>
+					                    </span>
+					                    <h4 class="position-title">Software Development and Test Engineering</h4>
+					                </div>
+					            </div>
+					
+					
+					            <ul class="work-details">
+					                <li>Implemented bug fixes; conducted sanity, performance tests for a11y</li>
+					            </ul>
+					        </section>
+					</div>
+				</aside>
+				<div class="right-column">
+					    <div class="skills-container">
+					            <section class="container">
+					                    <div class="title">
+					                        <h3 class="section-title">languages</h3>
+					                        <!-- <div class="keyline"></div> -->
+					                    </div>
+					                    <ul class="minimal">
+					                            <li><h6>Python, Java, Objective-C, C++, Swift, C#, PHP, JavaScript, HTML/CSS</h6></li>
+					                            <li><h6>English, Punjabi, some French</h6></li>
+					                    </ul>
+					            </section>
+					            <section class="container">
+					                    <div class="title">
+					                        <h3 class="section-title">technologies</h3>
+					                        <!-- <div class="keyline"></div> -->
+					                    </div>
+					                    <ul class="minimal">
+					                            <li><h6>Android, iOS, Django, Flask, Angular, Node, Meteor, Sass</h6></li>
+					                            <li><h6>Git, Mercurial, MySQL, SQLite, Postgres, Heroku, Puppet</h6></li>
+					                            <li><h6>Linux/UNIX, Thrift, Hadoop, Spark</h6></li>
+					                    </ul>
+					            </section>
+					    </div>
+					<div class="container publications-container">
+					    <div class="title">
+					        <h3 class="section-title">projects</h3>
+					        <!-- <div class="keyline"></div> -->
+					    </div>
+					
+					    <section class="item">
+					        <div class="section-header clearfix">
+					            <h3 class="bold pull-left">
+					                    Capstone/FYDP
+					            </h3>
+					            <h5 class="italic pull-right">
+					            </h5>
+					        </div>
+					
+					
+					        <p class="summary">Smart door/home locking and authentication system using facial recognition</p>
+					
+					    </section>
+					    <section class="item">
+					        <div class="section-header clearfix">
+					            <h3 class="bold pull-left">
+					                    <a href="https://play.google.com/store/apps/details?id&#x3D;com.irvanjit.discovergurbani" target="_blank">
+					                        Discover Gurbani <i class="fa fa-external-link" aria-hidden="true"></i>
+					                    </a>
+					            </h3>
+					            <h5 class="italic pull-right">
+					            </h5>
+					        </div>
+					
+					        <h5 class="awarder">Play Store: bit.ly/dscvDroid</h5>
+					
+					        <p class="summary">Android app to search/read the Sikh scriptures in multiple languages</p>
+					
+					    </section>
+					    <section class="item">
+					        <div class="section-header clearfix">
+					            <h3 class="bold pull-left">
+					                    <a href="http://quaterloo.herokuapp.com/" target="_blank">
+					                        Quaterloo <i class="fa fa-external-link" aria-hidden="true"></i>
+					                    </a>
+					            </h3>
+					            <h5 class="italic pull-right">
+					            </h5>
+					        </div>
+					
+					        <h5 class="awarder">quaterloo.herokuapp.com</h5>
+					
+					        <p class="summary">AngelhackTO Q&amp;A/discussion platform for UW students (Django, Foundation, jQuery, socketio)</p>
+					
+					    </section>
+					    <section class="item">
+					        <div class="section-header clearfix">
+					            <h3 class="bold pull-left">
+					                    <a href="http://github.com/irvanjit/mhacks-13" target="_blank">
+					                        Mango <i class="fa fa-external-link" aria-hidden="true"></i>
+					                    </a>
+					            </h3>
+					            <h5 class="italic pull-right">
+					            </h5>
+					        </div>
+					
+					        <h5 class="awarder">Github: git.io/vHtjf</h5>
+					
+					        <p class="summary">NFC server-synchronized Contacts sharing POC for Android (Django)</p>
+					
+					    </section>
+					    <section class="item">
+					        <div class="section-header clearfix">
+					            <h3 class="bold pull-left">
+					                    <a href="http://irvanjit.com/old_projects/hardware" target="_blank">
+					                        hardware <i class="fa fa-external-link" aria-hidden="true"></i>
+					                    </a>
+					            </h3>
+					            <h5 class="italic pull-right">
+					            </h5>
+					        </div>
+					
+					        <h5 class="awarder">irvanjit.com/old_projects/hardware</h5>
+					
+					
+					    </section>
+					</div>
+					<div class="container education-container">
+					    <div class="title">
+					        <h3 class="section-title">education</h3>
+					        <!-- <div class="keyline"></div> -->
+					    </div>
+					
+					        <section class="item">
+					            <div>
+					                <div class="education-title">
+					                    <div class="section-header clearfix">
+					                        <h3 class="bold pull-left">
+					                                University of Waterloo
+					                        </h3>
+					                        <h5 class="italic pull-right">
+					                        </h5>
+					                    </div>
+					                </div>
+					            </div>
+					
+					            <h4 class="study-type">Bachelor of Applied Science</h4>
+					                <div class="org-logo pull-left">
+					                    <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdOAAAAJGUxNWVlZjhkLWUyNzQtNGJmMi04MzAxLTQwYTczN2Y0ZDhiOA.png" alt="">
+					                </div>
+					            <h4 class="study-area">Honours Computer Engineering, Co-op</h4>
+					            <h4 class="graduating">Graduating April 2018</h4>
+					
+					
+					            <!-- 
+					            <ul class="minimal">
+					                    <li><h6>Data Structures/Algorithms, OS, Compilers, DBs, Networks, Distributed Systems, Adaptive Algorithms</h6></li>
+					            </ul> -->
+					            <!-- <ul class="two-column">
+					                <li>Data Structures/Algorithms, OS, Compilers, DBs, Networks, Distributed Systems, Adaptive Algorithms</li>
+					            </ul>
+					        </section>
+					</div>
+				</div>
+			</div>
+		</main>
+	</body>
 </html>

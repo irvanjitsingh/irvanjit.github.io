@@ -9,9 +9,11 @@
                   <img src="{{logo}}" alt="">
                 </div>
                 <div class="logo-col-right">
+                    <div class="company-title">
                     {{> section-header name=this.company }}
+                    </span>
                     {{#if position}}
-                    <h4>{{position}}</h4>
+                    <h4 class="position-title">{{position}}</h4>
                     {{/if}}
                 </div>
             </div>
@@ -21,7 +23,7 @@
             {{/if}}
 
             {{#if highlights.length}}
-            <ul>
+            <ul class="work-details">
                 {{#each highlights}}
                 <li>{{.}}</li>
                 {{/each}}
