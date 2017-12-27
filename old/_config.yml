@@ -25,3 +25,5 @@ author:
 version:             1.0.0
 
 gems: [jekyll-paginate]
+
+theme: minimal-mistakes-jekyll
