@@ -114,7 +114,7 @@ ul {
 .keyline {
   width: 45px;
   margin: 5px 0 10px;
-  border-top: 1px solid #0077B5; }
+  border-top: 1px solid #0077b5; }
 
 .pull-left {
   float: left; }
@@ -122,15 +122,11 @@ ul {
 .pull-right {
   float: right; }
 
-.study-type {
-  font-weight: 550; }
-
 .work-details {
   margin: 0;
   padding-left: 20px; }
 
 .study-area {
-  font-weight: lighter;
   font-style: italic; }
 
 .graduating {
@@ -145,7 +141,7 @@ ul {
   clear: both; }
 
 .fa-linkedin-square {
-  color: #0077B5; }
+  color: #0077b5; }
 
 .fa-stack-overflow {
   color: #f48024; }
@@ -160,7 +156,7 @@ ul {
     height: 52px;
     width: 52px;
     border-radius: 50%;
-    border: 2px solid #0077B5; }
+    border: 2px solid #0077b5; }
 
 .about-info {
   margin-left: 22px; }
@@ -207,7 +203,7 @@ ul {
   min-height: 792px;
   display: block;
   margin: 0 auto;
-  border-top: 0px solid #0077B5;
+  border-top: 0px solid #0077b5;
   padding: 18px 22px 30px 34px;
   box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5); }
   .page:after {
