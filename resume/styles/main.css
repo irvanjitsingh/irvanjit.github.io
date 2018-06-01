@@ -127,6 +127,8 @@ ul {
   padding-left: 20px; }
 
 .study-area {
+  font-weight: 550;
+  font-size: 9pt;
   font-style: italic; }
 
 .graduating {
@@ -302,3 +304,11 @@ ul {
 
 .references-container .fa {
   font-size: 14px; }
+
+.education-container .location {
+  padding-bottom: 6px;
+  font-weight: 400; }
+
+.education-container .specialization {
+  text-transform: none;
+  font-style: italic; }
