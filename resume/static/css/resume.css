@@ -15,7 +15,7 @@ a {
 
 .list-description ul {
   list-style-position: outside;
-  padding-left: 1em;
+  padding-left: 1.1em;
   margin-top: 0.4em;
   margin-bottom: 0.2em;
 }
@@ -27,6 +27,55 @@ a {
   margin-bottom: 0.2em;
   font-size: 0.9em;
 }
+
+.landing {
+  background-color: royalblue;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.landing-page {
+  text-align: left;
+  font-size: 3em;
+  font-family: "Avenir-", Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: white;
+  font-weight: 500;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+}
+
+.links a:link {
+  color: white;
+}
+
+/* visited link */
+.links a:visited {
+  color: white;
+}
+
+/* mouse over link */
+.links a:hover {
+  color: orange;
+}
+
+/* selected link */
+.links a:active {
+  color: darkorange;
+}
+
+.list-description a {
+  color: royalblue;
+  font-weight: 600;
+}
+
 
 #projects .list-description {
   /* font-size: 0.9em; */
@@ -95,15 +144,15 @@ a {
   text-align: right;
 }
 
-.fa-github {
+#header-links .fa-github {
   color: #333;
 }
 
-.fa-linkedin {
+#header-links .fa-linkedin {
   color: #0077b5;
 }
 
-.fa-stack-overflow {
+#header-links .fa-stack-overflow {
   color: #f48024;
 }
 
@@ -169,13 +218,13 @@ i {
 }
 
 .entry-header-left {
-  width: 65%;
+  width: 63%;
   align: left;
   text-align: left;
 }
 
 .entry-header-right {
-  width: 35%;
+  width: 37%;
   align: right;
   text-align: right;
   font-size: 0.67em;
@@ -195,16 +244,13 @@ i {
   width: 100%;
   align: left;
   text-align: left;
-  font-size: 0.67em;
-}
-
-.entry-col-icon {
-
+  font-size: 0.7em;
 }
 
 .company-logo {
   width: 20px;
-  filter: grayscale(100%);
+  border-radius: 10%;
+  filter: grayscale(0%);
 }
 
 .school-logo {
@@ -228,7 +274,7 @@ i {
   height: 1px;
   border: 0;
   border-top: 2px solid #ccc;
-  border-color: #3399FF;
+  border-color: royalblue;
   margin: 0.2em 0;
 }
 
