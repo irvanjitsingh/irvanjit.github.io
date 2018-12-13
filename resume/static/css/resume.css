@@ -2,37 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-  font-family: Arial, "Avenir", sans-serif;
-  margin-left: auto;
-  margin-right: auto;
-  align-content: center;
-}
-
-a {
-  text-decoration: none;
-}
-
-.list-description ul {
-  list-style-position: outside;
-  padding-left: 1.1em;
-  margin-top: 0.2em;
-  margin-bottom: 0.2em;
-  font-weight: 300;
-  font-size: 0.95em;
-}
-
-.list-skills ul {
-  list-style-position: outside;
-  padding-left: 1em;
-  margin-top: 0.4em;
-  margin-bottom: 0.2em;
-  font-size: 0.9em;
-}
-
-.summary-paragraph {
-}
-
 .landing {
   background-color: royalblue;
 }
@@ -68,34 +37,121 @@ a {
 
 /* mouse over link */
 .links a:hover {
-  color: orange;
+  /* display: none; */
+  color: navy;
 }
+
+/* .links a:hover:after {
+  content: '/username';
+  color: navy;
+} */
 
 /* selected link */
 .links a:active {
-  color: darkorange;
+  color: navy;
+}
+
+.box a {
+    padding: 10px;
+    white-space: nowrap;
+    background-color: white;
+    color: royalblue !important;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    font-weight: bold;
+    vertical-align: text-center;
+    /* text-decoration: none; */
+}
+
+.box a:hover {
+    background-color: cornflowerblue;
+    color: royalblue;
+}
+
+.box a:active {
+    background-color: cornflowerblue;
+    color: navy;
+}
+
+.links a:hover .fa-linkedin {
+  color: #00a0dc;
+}
+
+.links a:hover .fa-stack-overflow {
+  color: #f48024;
+}
+
+.links a:hover .fa-github {
+  color: #333;
+}
+
+.links a:hover .fa-facebook {
+  color: #3b5998;
+}
+
+.links a:hover .fa-twitter {
+  color: #1da1f2;
+}
+
+.links a:hover .fa-soundcloud {
+  color: #ff8800;
+}
+
+.links a:hover .fa-instagram {
+  color: #c13584;
+}
+
+.links a:hover .fa-tumblr {
+  color: #35465c;
 }
 
 /* general styling shared between versions */
-.icon::before {
+/* .icon::before {
   display: inline-block;
   font-style: normal;
   font-variant: normal;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
+} */
+
+body .content {
+  font-family: Arial, "Avenir", sans-serif;
 }
 
-/* version 4's styling (using calendar-o) */
-.calendar::before {
-  font-family: FontAwesome;
-  content: "\f133";
+.content {
+  /* margin: 0.39in 0.39in 0.39in 0.39in; */
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+  /* width: 8.5in;
+  height: 11in; */
+  max-width: 960px;
+  margin: auto;
 }
 
-/* version 5's styling (using updated regular style of calendar) */
-.calendar::before {
-  font-family: "Font Awesome 5 Free";  /* updated font-family */
-  font-weight: 400; /* regular style/weight */
-  content: "\f133";
+a {
+  text-decoration: none;
+}
+
+.list-description ul {
+  list-style-position: outside;
+  padding-left: 1.1em;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  font-weight: 300;
+  font-size: 0.95em;
+}
+
+.list-skills ul {
+  list-style-position: outside;
+  padding-left: 1em;
+  margin-top: 0.4em;
+  margin-bottom: 0.2em;
+  font-size: 0.9em;
+}
+
+.summary-paragraph {
 }
 
 .list-description a {
@@ -114,20 +170,19 @@ a {
   }
 }
 @media screen {
-  .links-printonly {
+  .printonly {
     display: none;
   }
 }
 @media print {
-  body {
-    /* font-size: 0.9em; */
+  body .content {
     width: 8.5in;
     height: 11in;
-    padding-left: 3px;
-    padding-right: 3px;
-    padding-top: 15px;
+    padding: 0;
+    margin: 0;
+    /* font-size: 0.9em; */
   }
-  .links-siteonly {
+  .siteonly {
     display: none;
   }
   .company-logo {
@@ -139,8 +194,12 @@ a {
   }
 }
 
+.header-link {
+  padding-bottom: 3px;
+}
+
 #title-main {
-  font-size: 3.1em;
+  font-size: 3.5em;
   margin-top: 0px;
   margin-bottom: 0px;
   text-transform: uppercase;
@@ -155,9 +214,8 @@ a {
 }
 
 #header {
-  padding-bottom: 20px;
-  padding-bottom: 15px;
-  margin-bottom: 10px;
+  padding: 0px 0px 15px 0px;
+  margin: 0px 0px 10px 0px;
   /* border-collapse: collapse; */
 }
 
@@ -166,13 +224,17 @@ a {
 }
 
 #header-title {
-  width: 65%;
+  width: 75%;
   align-content: left;
 }
 
 #header-links {
-  width: 35%;
+  width: 25%;
   text-align: right;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 4px;
+  /* font-size: 0.9em; */
 }
 
 #header-links .fa-github {
@@ -202,10 +264,6 @@ i {
   margin-left: 4px; */
 }
 
-.content {
-  max-width: 960px;
-  margin: auto;
-}
 /* .table-main {
   width: 100%
 } */
