@@ -7,27 +7,87 @@
 }
 
 .container {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -moz-transform: translateX(-50%) translateY(-50%);
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
+  width: 100%;
+  /* height: 100%; */
+  padding-top: 30px;
+  padding-left: 70px;
+  padding-right: 70px;
+  /* position: absolute; */
+  /* top: 50%;
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform:translateY(-50%); */
 }
 
 .landing-page {
-  text-align: left;
-  font-size: 2.2em;
   font-family: "Avenir-", Helvetica, Arial, "Lucida Grande", sans-serif;
   color: white;
   font-weight: 500;
   margin-left: auto;
   margin-right: auto;
   align-content: center;
+  /* padding-top: 20px; */
 }
 
-.title {
-  font-size: 3.5em;
+.landing-title {
+  font-size: 4em;
+  padding-bottom: 50px;
+}
+
+#landing-table {
+  width: 100%;
+}
+
+#landing-edge {
+  width: 20%;
+  valign: top;
+  text-align: left;
+  padding-right: 20px;
+}
+
+#landing-left {
+  width: 15%;
+  valign: top;
+  text-align: right;
+  padding-right: 20px;
+}
+
+#landing-right {
+  width: 65%;
+  vertical-align: top;
+  padding-left: 20px;
+}
+
+.links {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 2.2em;
+}
+
+.profile-pic {
+  width: 250px;
+  border-radius: 50%;
+  border: 4px solid white;
+}
+
+.landing-page .links {
+  padding: 20px;
+}
+
+.links-sm {
+  font-size: 2.7em;
+}
+
+.links-tech {
+  color: lightgrey;
+}
+
+.links-frameworks {
+  color: lightgrey;
+}
+
+.links-languages {
+  color: lightgrey;
 }
 
 .links a:link {
@@ -70,7 +130,7 @@
 
 .box a:hover {
     background-color: cornflowerblue;
-    color: royalblue;
+    color: white;
 }
 
 .box a:active {
@@ -79,7 +139,7 @@
 }
 
 .links a:hover .fa-linkedin {
-  color: #00a0dc;
+  color: #0077b5;
 }
 
 .links a:hover .fa-stack-overflow {
@@ -108,6 +168,14 @@
 
 .links a:hover .fa-tumblr {
   color: #35465c;
+}
+
+.links a:hover .fa-wordpress {
+  color: #00aadc;
+}
+
+.links a:hover .fa-angellist {
+  color: #333;
 }
 
 /* general styling shared between versions */
