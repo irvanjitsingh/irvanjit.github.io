@@ -1,55 +1,56 @@
 ==================================================================
-https://keybase.io/irvanjit
+https://keybase.io/irvanjitsingh
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://irvanjit.com
-  * I am irvanjit (https://keybase.io/irvanjit) on keybase.
-  * I have a public key ASARsa4TXU_387Qz5gBTF0eRsCZZO49axby69XtoZfbwfAo
+  * I am an admin of https://irvanjit.com
+  * I am irvanjitsingh (https://keybase.io/irvanjitsingh) on keybase.
+  * I have a public key ASAVedZ3D6wRZV2vLJ2anGrYSbVEX2TtpsTV692BcH7I0go
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "012011b1ae135d4ff7f3b433e60053174791b026593b8f5ac5bcbaf57b6865f6f07c0a",
-            "host": "keybase.io",
-            "kid": "012011b1ae135d4ff7f3b433e60053174791b026593b8f5ac5bcbaf57b6865f6f07c0a",
-            "uid": "1e6f62b3e98df00d03d2b0c455b88b19",
-            "username": "irvanjit"
-        },
-        "service": {
-            "hostname": "irvanjit.com",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01201579d6770fac11655daf2c9d9a9c6ad849b5445f64eda6c4d5ebdd81707ec8d20a",
+      "host": "keybase.io",
+      "kid": "01201579d6770fac11655daf2c9d9a9c6ad849b5445f64eda6c4d5ebdd81707ec8d20a",
+      "uid": "ffce38aa3d6fd50bf22cfab322a51519",
+      "username": "irvanjitsingh"
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.16"
-    },
-    "ctime": 1466827042,
-    "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1466826894,
-        "hash": "b94652929f3103e6fa4d063d21502d3b39c8efa2977cd71a4e5061d1b58a5a096f8e69dfb5edd2bc807e22f8408c5fe248a914495817a886543b0299513e5c10",
-        "seqno": 498170
+      "ctime": 1545181948,
+      "hash": "fa781b4bbff9ccdd9b9eef41dd2c5dc77ed1ed4dae58d80a966bf71961b8adb3467a1707338f4c6231a422f7c6d39be62f3a016588afa574959c9edd218cef40",
+      "hash_meta": "c1452fdeeb9e3c360a301cc6e9a14944dd0f000d64b2ebbef02655117851c9db",
+      "seqno": 4166707
     },
-    "prev": "2877b76d645562191b8a61a24663615a98b3c606b26320b1589a7c7041089939",
-    "seqno": 8,
-    "tag": "signature"
+    "service": {
+      "entropy": "2QI3ScURm7HKCBkp4diqejsB",
+      "hostname": "irvanjit.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.2"
+  },
+  "ctime": 1545181957,
+  "expire_in": 504576000,
+  "prev": "9ad6c8e72e650916671197169b59034eda0f0aeaabbba098bf111330a537ae40",
+  "seqno": 8,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEbGuE11P9/O0M+YAUxdHkbAmWTuPWsW8uvV7aGX28HwKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTFiMWFlMTM1ZDRmZjdmM2I0MzNlNjAwNTMxNzQ3OTFiMDI2NTkzYjhmNWFjNWJjYmFmNTdiNjg2NWY2ZjA3YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTFiMWFlMTM1ZDRmZjdmM2I0MzNlNjAwNTMxNzQ3OTFiMDI2NTkzYjhmNWFjNWJjYmFmNTdiNjg2NWY2ZjA3YzBhIiwidWlkIjoiMWU2ZjYyYjNlOThkZjAwZDAzZDJiMGM0NTViODhiMTkiLCJ1c2VybmFtZSI6ImlydmFuaml0In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJpcnZhbmppdC5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY2ODI3MDQyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjY4MjY4OTQsImhhc2giOiJiOTQ2NTI5MjlmMzEwM2U2ZmE0ZDA2M2QyMTUwMmQzYjM5YzhlZmEyOTc3Y2Q3MWE0ZTUwNjFkMWI1OGE1YTA5NmY4ZTY5ZGZiNWVkZDJiYzgwN2UyMmY4NDA4YzVmZTI0OGE5MTQ0OTU4MTdhODg2NTQzYjAyOTk1MTNlNWMxMCIsInNlcW5vIjo0OTgxNzB9LCJwcmV2IjoiMjg3N2I3NmQ2NDU1NjIxOTFiOGE2MWEyNDY2MzYxNWE5OGIzYzYwNmIyNjMyMGIxNTg5YTdjNzA0MTA4OTkzOSIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLt2FjPDYcEdyyP8iIUlecV9OK/S8onBPPtFXNXzaJtVeglDWp/MeIravGn+kD9V+CpGn6MrfICEz2Yw/I0CFw+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDSJQmvBzM7nMy+k0e0ijsLSkibuG8TnKvxQxcCtz/rpaN0YWfNAgKndmVyc2lvbgE=
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFXnWdw+sEWVdryydmpxq2Em1RF9k7abE1evdgXB+yNIKp3BheWxvYWTESpcCCMQgmtbI5y5lCRZnEZcWm1kDTtoPCuqru6CYvxETMKU3rkDEIIXEZ8SWDJDUfkYz2MKW4ebCBxU8mgWzGDnwxlKEWLPmAgHCo3NpZ8RA+7zRo03/2MbIIgoJV99VSb3UuVNUMw3CYKnANh9X8dSwHuwHw7f7xrkER6hOLfvTHAcDWTi0u2G7+TL+Mvc6C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDiaA4IeIJZmd/Pxo/mnqPmGk1EewI4HohriIT2ZRYz4o3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/irvanjit
+View my publicly-auditable identity here: https://keybase.io/irvanjitsingh
 
 ==================================================================
-
