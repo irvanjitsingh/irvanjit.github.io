@@ -34,26 +34,30 @@
   padding-bottom: 50px;
 }
 
+.landing-header {
+  display: none;
+}
+
 #landing-table {
   width: 100%;
 }
 
 #landing-edge {
-  width: 20%;
+  width: 30%;
   valign: top;
-  text-align: left;
+  text-align: center;
   padding-right: 20px;
 }
 
 #landing-left {
-  width: 15%;
+  width: 0%;
   valign: top;
   text-align: right;
   padding-right: 20px;
 }
 
 #landing-right {
-  width: 65%;
+  width: 70%;
   vertical-align: top;
   padding-left: 20px;
 }
@@ -65,7 +69,7 @@
 }
 
 .profile-pic {
-  width: 250px;
+  width: 150px;
   border-radius: 50%;
   border: 4px solid white;
 }
@@ -80,14 +84,17 @@
 
 .links-tech {
   color: lightgrey;
+  display: none;
 }
 
 .links-frameworks {
   color: lightgrey;
+  display: none;
 }
 
 .links-languages {
   color: lightgrey;
+  display: none;
 }
 
 .links a:link {
@@ -139,7 +146,7 @@
 }
 
 .links a:hover .fa-linkedin {
-  color: #0077b5;
+  color: #00a0dc;
 }
 
 .links a:hover .fa-stack-overflow {
@@ -176,6 +183,10 @@
 
 .links a:hover .fa-angellist {
   color: #333;
+}
+
+.links a:hover .fa-keybase {
+  color: #5a8ff7;
 }
 
 /* general styling shared between versions */
