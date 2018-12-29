@@ -302,6 +302,12 @@ a {
   /* border-collapse: collapse; */
 }
 
+#header-minimal {
+  padding: 0px 0px 3px 0px;
+  margin: 0px 0px 0px 0px;
+  /* border-collapse: collapse; */
+}
+
 #summary {
   /* display: none; */
 }
@@ -402,6 +408,10 @@ i {
   font-size: 0.67em;
 }
 
+.entry-header {
+  font-size: 1.1em;
+}
+
 .tr-single {
   width: 100%;
 }
@@ -433,6 +443,12 @@ i {
   padding: 5px 0px 10px 0px;
   margin: 2px 0px 2px 0px;
 }
+
+.section-minimal {
+  padding: 1px 0px 2px 0px;
+  margin: 2px 0px 2px 0px;
+}
+
 .section-title {
   padding: 0px 0px 6px 0px;
   margin: 0px 0px 0px 0px;
