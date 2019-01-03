@@ -290,6 +290,7 @@ a {
 
 #title-sub {
   font-size: 0.9em;
+  display: none;
 }
 
 #download {
@@ -393,6 +394,7 @@ i {
 .entry-header-icon {
   width: 0%;
   align: left;
+  display: none;
 }
 
 .entry-header-left {
@@ -454,6 +456,10 @@ i {
   margin: 0px 0px 0px 0px;
   text-align: left;
   text-transform: uppercase;
+}
+
+.section-title i {
+  display: none;
 }
 
 .section-divider {
