@@ -122,6 +122,12 @@
   color: navy;
 }
 
+.plain-link a {
+  /* text-decoration: underline; */
+  font-style: italic;
+  font-weight: bold;
+}
+
 .box a {
     padding: 10px;
     white-space: nowrap;
