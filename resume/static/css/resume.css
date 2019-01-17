@@ -290,13 +290,13 @@ a {
 #title-main {
   font-size: 3.5em;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 5px;
   text-transform: uppercase;
 }
 
 #title-sub {
   font-size: 0.9em;
-  display: none;
+  /* display: none; */
 }
 
 #download {
@@ -304,8 +304,8 @@ a {
 }
 
 #header {
-  padding: 0px 0px 15px 0px;
-  margin: 0px 0px 10px 0px;
+  padding: 0px 0px 8px 0px;
+  margin: 0px 0px 8px 0px;
   /* border-collapse: collapse; */
 }
 
@@ -320,12 +320,12 @@ a {
 }
 
 #header-title {
-  width: 75%;
+  width: 73%;
   align-content: left;
 }
 
 #header-links {
-  width: 25%;
+  width: 27%;
   text-align: right;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -520,4 +520,12 @@ i {
   font-weight: bold;
   font-style: italic;
   font-size: 0.8em;
+}
+
+.course-list {
+  padding: 1px 0px 1px 0px;
+  margin: auto;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 0.5em;
 }
