@@ -35,7 +35,8 @@
 }
 
 .landing-header {
-  display: none;
+  font-size: 1.5em;
+  padding-bottom: 40px;
 }
 
 #landing-table {
@@ -50,14 +51,14 @@
 }
 
 #landing-left {
-  width: 0%;
+  width: 40%;
   valign: top;
   text-align: right;
   padding-right: 20px;
 }
 
 #landing-right {
-  width: 70%;
+  width: 60%;
   vertical-align: top;
   padding-left: 20px;
 }
@@ -65,7 +66,7 @@
 .links {
   padding-top: 20px;
   padding-bottom: 20px;
-  font-size: 2.2em;
+  font-size: 2em;
 }
 
 .profile-pic {
@@ -75,11 +76,11 @@
 }
 
 .landing-page .links {
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 .links-sm {
-  font-size: 2.7em;
+  /* font-size: 2.7em; */
 }
 
 .links-tech {
@@ -130,6 +131,8 @@
 
 .box a {
     padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
     white-space: nowrap;
     background-color: white;
     color: royalblue !important;
@@ -149,6 +152,26 @@
 .box a:active {
     background-color: cornflowerblue;
     color: navy;
+}
+
+#link-linkedin:hover ~ #endpoint:before {
+  content: "linkedin.com/in"
+}
+
+#link-stackoverflow:hover ~ #endpoint:before {
+  content: "stackoverflow.com/cv"
+}
+
+#link-github:hover ~ #endpoint:before {
+  content: "github.com"
+}
+
+#link-wordpress:hover ~ #endpoint:after {
+  content: ".wordpress.com"
+}
+
+#link-keybase:hover ~ #endpoint:before {
+  content: "keybase.io"
 }
 
 .links a:hover .fa-linkedin {
