@@ -123,30 +123,6 @@
   /* font-weight: bold; */
 }
 
-#link-resume:hover ~ #endpoint:after {
-  content: ":irvanjit.com/resume"
-}
-
-#link-linkedin:hover ~ #endpoint:before {
-  content: "linkedin.com/in"
-}
-
-#link-stackoverflow:hover ~ #endpoint:before {
-  content: "stackoverflow.com/cv"
-}
-
-#link-github:hover ~ #endpoint:before {
-  content: "github.com"
-}
-
-#link-wordpress:hover ~ #endpoint:after {
-  content: ".wordpress.com"
-}
-
-#link-keybase:hover ~ #endpoint:before {
-  content: "keybase.io"
-}
-
 .links a:hover .fa-linkedin {
   color: #0077b5;
 }
