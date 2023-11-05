@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: Irvanjit Singh Gill
+name: ""
 title: null
 email: null
 description: null
@@ -30,7 +30,10 @@ github_username:  null
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,4 +1,4 @@
-# Irvanjit Singh Gill
+Irvanjit Singh Gill
 
 ## Contact
 
