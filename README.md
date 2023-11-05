@@ -1,7 +1,7 @@
 `👋`
 # Irvanjit Singh Gill
 
-[Linkedin](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh)
+## [Linkedin](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh)
 
 ## Skills
 
@@ -71,8 +71,8 @@ Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, S
 
 ### **Khalis Foundation** | Developer
 #### Sacramento, California (Remote) | 09/2017 – Present
-- Contributor for a suite of web and desktop-Electron apps (sikhitothemax.com), and the banidb.com API
-- Maintaining AnvaadJS, an open-source unicode script converter for Indic languages (bit.ly/anvaadg) 
+- Contributor for a suite of web and desktop-Electron apps and web APIs
+- Maintaining AnvaadJS, an open-source unicode script converter for Indic languages
 
 ### **Gursevak (Charity)** | Mobile Developer
 #### Brampton, Ontario (Remote) | 05/2016 – 02/2023
