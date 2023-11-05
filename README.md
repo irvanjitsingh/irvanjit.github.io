@@ -1,13 +1,15 @@
+\
+
 # Irvanjit Singh Gill
 
 ## Contact
 
 +1 (226) 989-2694 \
+Brampton, Ontario, Canada \
 irvanjit@gmail.com \
 irvanjit.com \
 linkedin.com/in/irvanjitsingh \
-github.com/irvanjitsingh \
-Brampton, Ontario, Canada \
+github.com/irvanjitsingh
 
 ## Skills
 
