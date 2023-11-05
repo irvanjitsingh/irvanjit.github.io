@@ -12,9 +12,14 @@ Brampton, Ontario, Canada \
 
 ## Skills
 
-**Programming Languages:** Swift, Objective-C, Python, Java, C++, C#, C, PHP, JavaScript, HTML, JSON, XML, CSS, SQL
-**Frameworks:** iOS, Cocoa, UIKit, SwiftUI, XCTest, Android, JUnit, Django, Flask, NodeJS, ReactJS, React Native, REST
-**Tools:** Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, Splunk, Jenkins, Linux, Unix
+#### Programming Languages
+Swift, Objective-C, Python, Java, C++, C#, C, PHP, JavaScript, HTML, JSON, XML, CSS, SQL
+
+#### Frameworks
+iOS, Cocoa, UIKit, SwiftUI, XCTest, Android, JUnit, Django, Flask, NodeJS, ReactJS, React Native, REST
+
+#### Tools
+Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, Splunk, Jenkins, Linux, Unix
 
 ## Work Experience
 
@@ -38,15 +43,14 @@ Brampton, Ontario, Canada \
 #### Cupertino, California | 09/2016 – 12/2016
 - Maintained an iOS app to test iPhone manufacturing operator performance and accuracy via in-app AB experimentation
 - Wrote and deployed a XCTest suits via XCode Continuous Integration to automate UI testing and improve release cycle efficiency
-Gursevak, Brampton Ontario, Volunteer Mobile Developer, 05/2016 – 02/2023
-- Maintained native iOS & Android apps for an educational charity, adding features, and improving UX and performance
-- Shipped updates to an active user base of 50,000+ on iOS and Android (bit.ly/unlimios, bit.ly/unlimdroid)
 
 ### **Clearbridge Mobile** | Mobile Developer Co-op
 #### Vaughan, Ontario | 01/2016 – 04/2016
 - Worked with designers, product managers and clients to architect, develop and deploy a new Android app, Rethink Tires
 - Shipped updates, usability enhancements, and analytics integration for Android apps, NBC Telemundo News and TD UGO Wallet
-Toast, Cambridge Massachusetts| Automation Engineering Intern, 01/2015 – 04/2015
+
+### Toast | Automation Engineering Intern
+#### Cambridge Massachusetts | 01/2015 – 04/2015
 - Developed a framework to automate integration testing for the Toast POS system on web (Selenium, JUnit) and Android (Appium)
 - Implemented features and regression fixes on the Android client and backend service (Java, Play)
 
@@ -54,6 +58,22 @@ Toast, Cambridge Massachusetts| Automation Engineering Intern, 01/2015 – 04/20
 #### Toronto, Ontario | 05/2013 – 08/2013
 - Implemented a chart plotting user interface for patient vitals and other client-side features for the Vitalhub Chart iOS app
 - Redesigned and refactored the UI to create a dynamic and responsive View layer using Auto Layout
+
+### **CoreLogic Intersect** | Application Developer Co-op
+#### Toronto, Ontario | 05/2013 – 08/2013
+- Implemented server-side features and APIs for client projects using Django 
+- Developed a Flask backend for an internal team metrics dashboard 
+
+### **IBM** | Software Development and Test Engineering Co-op
+#### Ottawa, Ontario | 05/2013 – 08/2013
+- Implemented regression fixes and conducted sanity, regression and performance testing for a11y (accessibility) features
+
+## Volunteer Experience
+
+### **Gursevak** | Mobile Developer
+#### Brampton Ontario | 05/2016 – 02/2023
+- Maintained native iOS & Android apps for an educational charity, adding features, and improving UX and performance
+- Shipped updates to an active user base of 50,000+ on iOS and Android (bit.ly/unlimios, bit.ly/unlimdroid)
 
 ## Education
 
