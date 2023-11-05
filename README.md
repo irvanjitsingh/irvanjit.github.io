@@ -1,24 +1,18 @@
 `👋`
 # Irvanjit Singh Gill
 
-## Contact
-
-+1 (226) 989-2694 \
-Brampton, Ontario, Canada \
-[irvanjit[at]gmail[dot]com](mailto:irvanjit@gmail.com) \
-[irvanjit.com](https://irvanjit.com) \
-[linkedin.com/in/irvanjitsingh](https://linkedin.com/in/irvanjitsingh) \
-[github.com/irvanjitsingh](https://github.com/irvanjitsingh)
+[![Linkedin](social-icons/linkedin.svg)](https://linkedin.com/in/irvanjitsingh)
+[![Github](social-icons/linkedin.svg)](https://github.com/irvanjitsingh)
 
 ## Skills
 
-#### Programming Languages
+#### **Programming Languages**
 Swift, Objective-C, Python, Java, C++, C#, C, PHP, JavaScript, HTML, JSON, XML, CSS, SQL
 
-#### Frameworks
+#### **Frameworks**
 iOS, Cocoa, UIKit, SwiftUI, XCTest, Android, JUnit, Django, Flask, NodeJS, ReactJS, React Native, REST
 
-#### Tools
+#### **Tools**
 Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, Splunk, Jenkins, Linux, Unix
 
 ## Work Experience
