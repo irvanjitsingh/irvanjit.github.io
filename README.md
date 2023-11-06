@@ -1,18 +1,10 @@
 `👋`
 # Irvanjit Singh Gill
 
-## [Linkedin](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh)
+### [Resume](https://linkedin.com/in/irvanjitsingh/irvanjit.github.io/) [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)
 
-## Skills
-
-**Programming Languages**:
-Swift, Objective-C, Python, Java, C++, C#, C, PHP, JavaScript, HTML, JSON, XML, CSS, SQL
-
-**Frameworks**:
-iOS, Cocoa, UIKit, SwiftUI, XCTest, Android, JUnit, Django, Flask, NodeJS, ReactJS, React Native, REST
-
-**Tools**:
-Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, Splunk, Jenkins, Linux, Unix
+## Software Engineer (iOS)
+Experienced software engineer with over 5 years of full-time industry experience working in large and small teams on both mobile and backend stacks. Proficient in iOS and Android development. Passionate about user experience and creating useful tools and experiences for end-users.
 
 ## Work Experience
 
@@ -83,11 +75,32 @@ Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, S
 
 ### **University of Waterloo**  | Bachelor of Applied Science - BASc, Computer Engineering
 #### Waterloo, Ontario | Graduated 2018
+- Relevant Courses: Algorithms/Data Structures, Operating Systems, Embedded Microprocessors, Networks, Databases, Distributed Computing, Cooperative/Adaptive Algorithms, Algorithm Design/Analysis, Programming for Performance 
 
 ## Projects
 
-### **irvanjitsingh/raagnotes**
-Developed an iOS app to input and generate musical notation sets for Indian classical compositions and ragas (musical scales)
+### [**irvanjitsingh/raagnotes**](https://github.com/irvanjitsingh/raagnotes)
+- Developed an iOS app ([App Store](https://apps.apple.com/app/raag-notes/id1451254635)) to input and generate musical notation sets for Indian classical compositions and ragas (musical scales)
+- *Built with Xcode, Swift (UIKit)*
 
-### **irvanjitsingh/discovergurbani**
-Designed and developed an Android app to read the Sikh scriptures in multiple languages and scripts via the GurbaniDB REST API
+### [**irvanjitsingh/discovergurbani**](https://github.com/irvanjitsingh/discovergurbani)
+- Designed and developed an Android app ([Play Store](https://play.google.com/store/apps/details?id=com.irvanjit.discovergurbani)) to read the Sikh scriptures in multiple languages and scripts
+- *Built with Android Studio, Java, Retrofit, GSON, GurbaniDB API*
+
+### [**irvanjitsingh/quaterloo**](https://github.com/irvanjitsingh/quaterloo)
+- Developed a Q&A platform during Angelhack 2012 for University of Waterloo students to ask questions and chat with classmates in real-time
+- *Built with Python, Django, SocketIO, JQuery, Foundation, Heroku*
+
+## Skills
+
+**Programming Languages**:
+
+Swift, Objective-C, Python, Java, C++, C#, C, PHP, JavaScript, HTML, JSON, XML, CSS, SQL
+
+**Frameworks**:
+
+iOS, Cocoa, UIKit, SwiftUI, XCTest, Android, JUnit, Django, Flask, NodeJS, ReactJS, React Native, REST
+
+**Tools**:
+
+Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, Splunk, Jenkins, Linux, Unix
