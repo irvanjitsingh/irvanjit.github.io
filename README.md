@@ -6,9 +6,14 @@
 ## Software Engineer (iOS)
 Experienced software engineer with over 5 years of full-time industry experience working in large and small teams on both mobile and backend stacks. Proficient in iOS and Android development. Passionate about user experience and creating useful tools and experiences for end-users.
 
+- **5 YOE**: permanent, industry, full-time
+- **3 YOE**: internships, industry, full-time
+- **13 YOE**: iOS, self-learned, part-time
+- **17 YOE**: web, self-learned, part-time
+
 ## Work Experience
 
-### **Yelp** | Senior iOS Engineer
+### **Yelp** | Senior Software Engineer
 #### Toronto, Ontario (Remote) | 01/2022 – Present 
 - iOS Engineer on the Discovery UX team, which owns Home, the screen that sees the most consumer traffic in the iOS app
 - Building the Home Feed and optimizing other areas of the home screen to boost user engagement, and improve UX and utility
