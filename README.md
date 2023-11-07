@@ -1,7 +1,7 @@
 `👋`
 # Irvanjit Singh Gill
 
-### [Resume](https://linkedin.com/in/irvanjitsingh/irvanjit.github.io/) [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)
+### [Resume](https://github.com/irvanjitsingh/irvanjit.github.io/Resume_IrvanjitGill.pdf) | [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)
 
 ## Software Engineer (iOS)
 Experienced software engineer with over 5 years of full-time industry experience working in large and small teams on both mobile and backend stacks. Proficient in iOS and Android development. Passionate about user experience and creating useful tools and experiences for end-users.
@@ -16,8 +16,8 @@ Experienced software engineer with over 5 years of full-time industry experience
 
 ### **Clearbridge Mobile** | iOS Developer
 #### Vaughan, Ontario (Remote) | 10/2020 – 12/2021  
-- Developed and launched the YES iOS app for Yankees Entertainment & Sports Network to 650,000+ active users in under 3 months
-- Shipped major updates for the NESN iOS app (New England Sports Network), integrating various REST APIs, libraries, and services
+- Developed and launched the [YES iOS](https://apps.apple.com/us/app/yes-network/id1543948562) app for Yankees Entertainment & Sports Network to 650,000+ active users in under 3 months
+- Shipped major updates for the [NESN iOS](https://apps.apple.com/us/app/nesn-360/id1218490839) app (New England Sports Network), integrating various REST APIs, libraries, and services
 
 ### **Tesla** | Infrastructure Engineering Intern
 #### Palo Alto, California | 09/2017 – 12/2017
@@ -32,9 +32,9 @@ Experienced software engineer with over 5 years of full-time industry experience
 ### **Clearbridge Mobile** | Mobile Developer Co-op
 #### Vaughan, Ontario | 01/2016 – 04/2016
 - Worked with designers, product managers and clients to architect, develop and deploy a new Android app, Rethink Tires
-- Shipped updates, usability enhancements, and analytics integration for Android apps, NBC Telemundo News and TD UGO Wallet
+- Shipped updates, usability enhancements, and analytics integration for Android apps, [NBC Telemundo News](https://play.google.com/store/apps/details?id=com.nbcuni.telemundo.noticiastelemundo) and [TD UGO Wallet](https://play.google.com/store/apps/details?id=com.ugo.mobilewallet)
 
-### Toast | Automation Engineering Intern
+### **Toast** | Automation Engineering Intern
 #### Cambridge, Massachusetts | 01/2015 – 04/2015
 - Developed a framework to automate integration testing for the Toast POS system on web (Selenium, JUnit) and Android (Appium)
 - Implemented features and regression fixes on the Android client and backend service (Java, Play)
@@ -63,28 +63,32 @@ Experienced software engineer with over 5 years of full-time industry experience
 
 ### **Khalis Foundation** | Developer
 #### Sacramento, California (Remote) | 09/2017 – Present
-- Contributor for a suite of web and desktop-Electron apps and web APIs
-- Maintaining AnvaadJS, an open-source unicode script converter for Indic languages
+- Maintaining [Learn Larivaar](https://github.com/KhalisFoundation/learn-larivaar), an interactive tool used to read Sikh scriptures in a traditional form with words joined together
+- Maintaining [AnvaadJS](https://github.com/KhalisFoundation/anvaad-js), an open-source unicode script converter for Indic languages
 
 ### **Gursevak (Charity)** | Mobile Developer
 #### Brampton, Ontario (Remote) | 05/2016 – 02/2023
-- Maintained native iOS & Android apps for an educational charity, adding features, and improving UX and performance
-- Shipped updates to an active user base of 50,000+ on iOS and Android (bit.ly/unlimios, bit.ly/unlimdroid)
+- Maintained native [iOS](https://apps.apple.com/us/app/learn-shudh-gurbani/id937224618) and [Android](https://play.google.com/store/apps/details?id=com.gurbani.unlimited) apps for an educational charity that offers an interactive method to learn the Gurmukhi script
+- Shipped updates to an active user base of 50,000+ across both platforms, added features and improved app performance by 3x
 
 ## Education
 
 ### **University of Waterloo**  | Bachelor of Applied Science - BASc, Computer Engineering
-#### Waterloo, Ontario | Graduated 2018
-- Relevant Courses: Algorithms/Data Structures, Operating Systems, Embedded Microprocessors, Networks, Databases, Distributed Computing, Cooperative/Adaptive Algorithms, Algorithm Design/Analysis, Programming for Performance 
+#### Waterloo, Ontario | 09/2011 – 04/2018
+- Relevant Courses: Algorithms/Data Structures, Operating Systems, Embedded Microprocessors, Networks, Databases, Distributed Computing, Cooperative/Adaptive Algorithms, Algorithm Design/Analysis, Programming for Performance
+
+### **North Park Secondary School**  | Ontario Secondary School Diploma (OSSD)
+#### Brampton, Ontario | 09/2007 – 06/2011
+- International, Business and Technology Program
 
 ## Projects
 
 ### [**irvanjitsingh/raagnotes**](https://github.com/irvanjitsingh/raagnotes)
-- Developed an iOS app ([App Store](https://apps.apple.com/app/raag-notes/id1451254635)) to input and generate musical notation sets for Indian classical compositions and ragas (musical scales)
+- Developed an [iOS app](https://apps.apple.com/app/raag-notes/id1451254635) to input and generate musical notation sets for Indian classical compositions and ragas (musical scales)
 - *Built with Xcode, Swift (UIKit)*
 
 ### [**irvanjitsingh/discovergurbani**](https://github.com/irvanjitsingh/discovergurbani)
-- Designed and developed an Android app ([Play Store](https://play.google.com/store/apps/details?id=com.irvanjit.discovergurbani)) to read the Sikh scriptures in multiple languages and scripts
+- Designed and developed an [Android app](https://play.google.com/store/apps/details?id=com.irvanjit.discovergurbani)) to read the Sikh scriptures in multiple languages and scripts
 - *Built with Android Studio, Java, Retrofit, GSON, GurbaniDB API*
 
 ### [**irvanjitsingh/quaterloo**](https://github.com/irvanjitsingh/quaterloo)
@@ -99,8 +103,12 @@ Swift, Objective-C, Python, Java, C++, C#, C, PHP, JavaScript, HTML, JSON, XML, 
 
 **Frameworks**:
 
-iOS, Cocoa, UIKit, SwiftUI, XCTest, Android, JUnit, Django, Flask, NodeJS, ReactJS, React Native, REST
+iOS, Cocoa, UIKit, SwiftUI, XCTest, Android, JUnit, Django, Flask, NodeJS, ReactJS, React Native, REST APIs, Unicode
 
 **Tools**:
 
 Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, Splunk, Jenkins, Linux, Unix
+
+## Interests
+
+Powerlifting, soccer, cycling, reading, cooking, spirituality, classical music
