@@ -1,7 +1,7 @@
 `👋`
 # Irvanjit Singh Gill
 
-### [Resume](https://github.com/irvanjitsingh/irvanjit.github.io/Resume_IrvanjitGill.pdf) | [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)
+### [Download Resume](https://irvanjit.com/Resume_IrvanjitGill.pdf) | [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)
 
 ## Software Engineer (iOS)
 Experienced software engineer with over 5 years of full-time industry experience working in large and small teams on both mobile and backend stacks. Proficient in iOS and Android development. Passionate about user experience and creating useful tools and experiences for end-users.
