@@ -6,11 +6,6 @@
 ## Software Engineer (iOS)
 Experienced software engineer with over 5 years of full-time industry experience working in large and small teams on both mobile and backend stacks. Proficient in iOS and Android development. Passionate about user experience and creating useful tools and experiences for end-users.
 
-- **5 YOE**: permanent, industry, full-time
-- **3 YOE**: internships, industry, full-time
-- **13 YOE**: iOS, self-learned, part-time
-- **17 YOE**: web, self-learned, part-time
-
 ## Work Experience
 
 ### **Yelp** | Senior Software Engineer
