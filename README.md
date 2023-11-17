@@ -1,4 +1,4 @@
-`bundle exec jekyll serve`
+:wave:
 
 # Irvanjit Singh Gill
 
