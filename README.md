@@ -1,10 +1,13 @@
 # Irvanjit Singh Gill
 
 ### [Resume](https://irvanjit.com/Resume_IrvanjitGill.pdf) | [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)
+
 ___
 
 ## Software Engineer (iOS)
 Experienced software engineer with over 5 years of full-time industry experience working in both large and small teams on mobile and backend stacks. Proficient in iOS and Android development. Passionate about creating functional, helpful and user-friendly experiences for end-users.
+
+___
 
 ## Work Experience
 
@@ -44,7 +47,6 @@ Experienced software engineer with over 5 years of full-time industry experience
 - Developed an internal localization tool using AngularJS and Bootstrap used for game development 
 - Improved performance by over 50% and created a significantly streamlined UX, for faster development cycles 
 
-
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oawqas1hqx34mmi9vbpy" width="36"> **Vitalhub** | iOS Developer Co-op
 #### *Toronto, Ontario* | 05/2013 – 08/2013
 - Implemented a chart plotting user interface for patient vitals and other client-side features for the Vitalhub Chart iOS app
@@ -60,6 +62,8 @@ Experienced software engineer with over 5 years of full-time industry experience
 #### *Ottawa, Ontario* | 01/2012 – 04/2012
 - Implemented regression fixes and conducted sanity, regression and performance testing for a11y (accessibility) features
 
+___
+
 ## Volunteer Experience
 
 ### <img src="https://avatars.githubusercontent.com/u/23178426?s=200&v=4" width="36"> **Khalis Foundation** | Developer
@@ -72,6 +76,8 @@ Experienced software engineer with over 5 years of full-time industry experience
 - Maintained native [iOS](https://apps.apple.com/us/app/learn-shudh-gurbani/id937224618) and [Android](https://play.google.com/store/apps/details?id=com.gurbani.unlimited) apps for an educational charity that offers an interactive method to learn the Gurmukhi script
 - Shipped updates to an active user base of 50,000+ across both platforms, added features and improved app performance by 3x
 
+___
+
 ## Education
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1482121641/xhhx9vkcqtju5kxl4eex.png" width="36"> **University of Waterloo**  | Bachelor of Applied Science - BASc, Computer Engineering
@@ -81,6 +87,8 @@ Experienced software engineer with over 5 years of full-time industry experience
 ### <img src="https://northpark.peelschools.org/images/logo.svg" width="36"> **North Park Secondary School**  | Ontario Secondary School Diploma (OSSD)
 #### *Brampton, Ontario* | 09/2007 – 06/2011
 - International, Business and Technology Program
+
+___
 
 ## Projects
 
@@ -96,6 +104,8 @@ Experienced software engineer with over 5 years of full-time industry experience
 - Developed a Q&A platform during Angelhack 2012 for University of Waterloo students to ask questions and chat with classmates in real-time
 - *Built with Python, Django, SocketIO, JQuery, Foundation, Heroku*
 
+___
+
 ## Skills
 
 **Programming Languages**:
@@ -109,6 +119,8 @@ iOS, Cocoa, UIKit, SwiftUI, XCTest, Android, JUnit, Django, Flask, NodeJS, React
 **Tools**:
 
 Xcode, Android Studio, Git, MySQL, SQLite, PostgreSQL, Tableau, AWS, Firebase, Splunk, Jenkins, Linux, Unix
+
+___
 
 ## Interests
 
