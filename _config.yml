@@ -28,8 +28,9 @@ twitter_username: null
 github_username:  null
 
 # Build settings
-theme: minima
-skin: dark
+remote_theme: jekyll/minima
+minima:
+  skin: dark
 plugins:
   - jekyll-remote-theme
 
