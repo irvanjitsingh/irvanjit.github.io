@@ -1,5 +1,3 @@
-:wave:
-
 # Irvanjit Singh Gill
 
 ### [Resume](https://irvanjit.com/Resume_IrvanjitGill.pdf) | [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)
