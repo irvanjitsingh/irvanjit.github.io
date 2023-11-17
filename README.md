@@ -7,77 +7,77 @@ Experienced software engineer with over 5 years of full-time industry experience
 
 ## Work Experience
 
-### <img src="https://pbs.twimg.com/profile_images/1424453349122875398/fF_IYutR_400x400.png" width="18"> **Yelp** | Senior Software Engineer
+### <img src="https://pbs.twimg.com/profile_images/1424453349122875398/fF_IYutR_400x400.png" width="36"> **Yelp** | Senior Software Engineer
 #### *Toronto, Ontario (Remote)* | 01/2022 – Present
 - iOS Engineer on the Discovery UX team, which owns Home, the screen that sees the most consumer traffic in the iOS app
 - Building the Home Feed and optimizing other areas of the home screen to boost user engagement, and improve UX and utility
 - Regularly lead projects, write and review code, run and analyze AB experiments, respond to incidents, and manage app releases
 
-### <img src="https://pbs.twimg.com/profile_images/1506657312978657289/MWuGe6ar_400x400.jpg" width="18"> **Clearbridge Mobile** | iOS Developer
+### <img src="https://pbs.twimg.com/profile_images/1506657312978657289/MWuGe6ar_400x400.jpg" width="36"> **Clearbridge Mobile** | iOS Developer
 #### *Vaughan, Ontario (Remote)* | 10/2020 – 12/2021
 - Developed and launched the [YES iOS](https://apps.apple.com/us/app/yes-network/id1543948562) app for Yankees Entertainment & Sports Network to 650,000+ active users in under 3 months
 - Shipped major updates for the [NESN iOS](https://apps.apple.com/us/app/nesn-360/id1218490839) app (New England Sports Network), integrating various REST APIs, libraries, and services
 
-### <img src="https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png" width="18"> **Tesla** | Infrastructure Engineering Intern
+### <img src="https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png" width="36"> **Tesla** | Infrastructure Engineering Intern
 #### *Palo Alto, California* | 09/2017 – 12/2017
 - Created a load testing framework to improve performance and reliability of internal CAD design tools used for Model 3 production
 - Improved infrastructure performance resulting in shorter design cycle iterations for the vehicle design and assembly line
 
-### <img src="https://pbs.twimg.com/profile_images/1717013664954499072/2dcJ0Unw_400x400.png" width="18"> **Apple** | Software Engineering Intern
+### <img src="https://pbs.twimg.com/profile_images/1717013664954499072/2dcJ0Unw_400x400.png" width="36"> **Apple** | Software Engineering Intern
 #### *Cupertino, California* | 09/2016 – 12/2016
 - Maintained an iOS app to test iPhone manufacturing operator performance and accuracy via in-app AB experimentation
 - Wrote and deployed a XCTest suits via XCode Continuous Integration to automate UI testing and improve release cycle efficiency
 
-### <img src="https://pbs.twimg.com/profile_images/1506657312978657289/MWuGe6ar_400x400.jpg" width="18"> **Clearbridge Mobile** | Mobile Developer Co-op
+### <img src="https://pbs.twimg.com/profile_images/1506657312978657289/MWuGe6ar_400x400.jpg" width="36"> **Clearbridge Mobile** | Mobile Developer Co-op
 #### *Vaughan, Ontario* | 01/2016 – 04/2016
 - Worked with designers, product managers and clients to architect, develop and deploy a new Android app, Rethink Tires
 - Shipped updates, usability enhancements, and analytics integration for Android apps, [NBC Telemundo News](https://play.google.com/store/apps/details?id=com.nbcuni.telemundo.noticiastelemundo) and [TD UGO Wallet](https://play.google.com/store/apps/details?id=com.ugo.mobilewallet)
 
-### <img src="https://pbs.twimg.com/profile_images/596760009930846208/UwnEH7kc_400x400.png" width="18"> **Toast** | Automation Engineering Intern
+### <img src="https://pbs.twimg.com/profile_images/596760009930846208/UwnEH7kc_400x400.png" width="36"> **Toast** | Automation Engineering Intern
 #### *Cambridge, Massachusetts* | 01/2015 – 04/2015
 - Developed a framework to automate integration testing for the Toast POS system on web (Selenium, JUnit) and Android (Appium)
 - Implemented features and regression fixes on the Android client and backend service (Java, Play)
 
-### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/cnjdboltxrybzb5iwyqm" width="18"> **Vectorface** | PHP Developer Co-op
+### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/cnjdboltxrybzb5iwyqm" width="36"> **Vectorface** | PHP Developer Co-op
 #### *Ottawa, Ontario* | 05/2014 – 08/2014
 - Developed an internal localization tool using AngularJS and Bootstrap used for game development 
 - Improved performance by over 50% and created a significantly streamlined UX, for faster development cycles 
 
 
-### <img src="https://pbs.twimg.com/profile_images/1544741004313387008/uxNm23Kn_400x400.jpg" width="18"> **Vitalhub** | iOS Developer Co-op
+### <img src="https://pbs.twimg.com/profile_images/1544741004313387008/uxNm23Kn_400x400.jpg" width="36"> **Vitalhub** | iOS Developer Co-op
 #### *Toronto, Ontario* | 05/2013 – 08/2013
 - Implemented a chart plotting user interface for patient vitals and other client-side features for the Vitalhub Chart iOS app
 - Redesigned and refactored the UI to create a dynamic and responsive View layer using Auto Layout
 
-### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397189270/ff9b34976c1675bc0c1a5b13b9b35a53.png" width="18"> **BNOTIONS** | Application Developer Co-op
+### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397189270/ff9b34976c1675bc0c1a5b13b9b35a53.png" width="36"> **BNOTIONS** | Application Developer Co-op
 #### *Toronto, Ontario* | 09/2012 – 12/2012
 - Acquired by Symbility Solutions, then CoreLogic
 - Implemented server-side features and APIs for client projects using Django 
 - Developed a Flask backend for an internal team metrics dashboard 
 
-### <img src="https://pbs.twimg.com/profile_images/1677090954350583811/Xy93qVY4_400x400.jpg" width="18"> **IBM** | Software Development and Test Engineering Co-op
+### <img src="https://pbs.twimg.com/profile_images/1677090954350583811/Xy93qVY4_400x400.jpg" width="36"> **IBM** | Software Development and Test Engineering Co-op
 #### *Ottawa, Ontario* | 01/2012 – 04/2012
 - Implemented regression fixes and conducted sanity, regression and performance testing for a11y (accessibility) features
 
 ## Volunteer Experience
 
-### <img src="https://pbs.twimg.com/profile_images/532670656958062593/1ni5YUwj_400x400.jpeg" width="18"> **Khalis Foundation** | Developer
+### <img src="https://pbs.twimg.com/profile_images/532670656958062593/1ni5YUwj_400x400.jpeg" width="36"> **Khalis Foundation** | Developer
 #### *Sacramento, California (Remote)* | 09/2017 – Present
 - Maintaining [Learn Larivaar](https://github.com/KhalisFoundation/learn-larivaar), an interactive tool used to read Sikh scriptures in a traditional form with words joined together
 - Maintaining [AnvaadJS](https://github.com/KhalisFoundation/anvaad-js), an open-source unicode script converter for Indic languages
 
-### <img src="https://pbs.twimg.com/profile_images/1350839805022777345/MGkUHL2o_400x400.jpg" width="18"> **Gursevak (Charity)** | Mobile Developer
+### <img src="https://pbs.twimg.com/profile_images/1350839805022777345/MGkUHL2o_400x400.jpg" width="36"> **Gursevak (Charity)** | Mobile Developer
 #### *Brampton, Ontario (Remote)* | 05/2016 – 02/2023
 - Maintained native [iOS](https://apps.apple.com/us/app/learn-shudh-gurbani/id937224618) and [Android](https://play.google.com/store/apps/details?id=com.gurbani.unlimited) apps for an educational charity that offers an interactive method to learn the Gurmukhi script
 - Shipped updates to an active user base of 50,000+ across both platforms, added features and improved app performance by 3x
 
 ## Education
 
-### <img src="https://pbs.twimg.com/profile_images/941006874844864512/F2Dh2wxC_400x400.jpg" width="18"> **University of Waterloo**  | Bachelor of Applied Science - BASc, Computer Engineering
+### <img src="https://pbs.twimg.com/profile_images/941006874844864512/F2Dh2wxC_400x400.jpg" width="36"> **University of Waterloo**  | Bachelor of Applied Science - BASc, Computer Engineering
 #### *Waterloo, Ontario* | 09/2011 – 04/2018
 - Relevant Courses: Algorithms/Data Structures, Operating Systems, Embedded Microprocessors, Networks, Databases, Distributed Computing, Cooperative/Adaptive Algorithms, Algorithm Design/Analysis, Programming for Performance
 
-### <img src="https://pbs.twimg.com/profile_images/665225941057036288/xXpVpaZ__400x400.png" width="18"> **North Park Secondary School**  | Ontario Secondary School Diploma (OSSD)
+### <img src="https://pbs.twimg.com/profile_images/665225941057036288/xXpVpaZ__400x400.png" width="36"> **North Park Secondary School**  | Ontario Secondary School Diploma (OSSD)
 #### *Brampton, Ontario* | 09/2007 – 06/2011
 - International, Business and Technology Program
 
