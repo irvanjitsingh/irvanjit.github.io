@@ -12,54 +12,64 @@ ___
 ## Work Experience
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/peeksh3bywsko77d96hw" width="36"> **Yelp** | Senior Software Engineer
-#### *Toronto, Ontario (Remote)* | 01/2022 – Present
+#### *Toronto, Ontario* | 01/2022 – Present
+#### Permanent, Full-Time, Remote
 - iOS Engineer on the Discovery UX team, which owns Home, the screen that sees the most consumer traffic in the iOS app
 - Building the Home Feed and optimizing other areas of the home screen to boost user engagement, and improve UX and utility
 - Regularly lead projects, write and review code, run and analyze AB experiments, respond to incidents, and manage app releases
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397186970/b95712e974dbcdc7c9049e03c5824181.png" width="36"> **Clearbridge Mobile** | iOS Developer
-#### *Vaughan, Ontario (Remote)* | 10/2020 – 12/2021
+#### *Vaughan, Ontario* | 10/2020 – 12/2021
+#### Permanent, Full-Time, Remote
 - Developed and launched the [YES iOS](https://apps.apple.com/us/app/yes-network/id1543948562) app for Yankees Entertainment & Sports Network to 650,000+ active users in under 3 months
 - Shipped major updates for the [NESN iOS](https://apps.apple.com/us/app/nesn-360/id1218490839) app (New England Sports Network), integrating various REST APIs, libraries, and services
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/dj8rndg9wkqkpgvplvzi" width="36"> **Tesla** | Infrastructure Engineering Intern
 #### *Palo Alto, California* | 09/2017 – 12/2017
+#### Internship, Full-Time, In-Person
 - Created a load testing framework to improve performance and reliability of internal CAD design tools used for Model 3 production
 - Improved infrastructure performance resulting in shorter design cycle iterations for the vehicle design and assembly line
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/s1cihnpc1cnekihotv0e" width="36"> **Apple** | Software Engineering Intern
 #### *Cupertino, California* | 09/2016 – 12/2016
+#### Internship, Full-Time, In-Person
 - Maintained an iOS app to test iPhone manufacturing operator performance and accuracy via in-app AB experimentation
 - Wrote and deployed a XCTest suits via XCode Continuous Integration to automate UI testing and improve release cycle efficiency
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397186970/b95712e974dbcdc7c9049e03c5824181.png" width="36"> **Clearbridge Mobile** | Mobile Developer Co-op
 #### *Vaughan, Ontario* | 01/2016 – 04/2016
+#### Internship, Full-Time, In-Person
 - Worked with designers, product managers and clients to architect, develop and deploy a new Android app, Rethink Tires
 - Shipped updates, usability enhancements, and analytics integration for Android apps, [NBC Telemundo News](https://play.google.com/store/apps/details?id=com.nbcuni.telemundo.noticiastelemundo) and [TD UGO Wallet](https://play.google.com/store/apps/details?id=com.ugo.mobilewallet)
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/qakub6in9irfgc3yksde" width="36"> **Toast** | Automation Engineering Intern
 #### *Cambridge, Massachusetts* | 01/2015 – 04/2015
+#### Internship, Full-Time, In-Person
 - Developed a framework to automate integration testing for the Toast POS system on web (Selenium, JUnit) and Android (Appium)
 - Implemented features and regression fixes on the Android client and backend service (Java, Play)
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/cnjdboltxrybzb5iwyqm" width="36"> **Vectorface** | PHP Developer Co-op
 #### *Ottawa, Ontario* | 05/2014 – 08/2014
+#### Internship, Full-Time, In-Person
 - Developed an internal localization tool using AngularJS and Bootstrap used for game development 
 - Improved performance by over 50% and created a significantly streamlined UX, for faster development cycles 
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oawqas1hqx34mmi9vbpy" width="36"> **Vitalhub** | iOS Developer Co-op
 #### *Toronto, Ontario* | 05/2013 – 08/2013
+#### Internship, Full-Time, In-Person
 - Implemented a chart plotting user interface for patient vitals and other client-side features for the Vitalhub Chart iOS app
 - Redesigned and refactored the UI to create a dynamic and responsive View layer using Auto Layout
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397189270/ff9b34976c1675bc0c1a5b13b9b35a53.png" width="36"> **BNOTIONS** | Application Developer Co-op
 #### *Toronto, Ontario* | 09/2012 – 12/2012
-- Acquired by Symbility Solutions, then CoreLogic
+#### Internship, Full-Time, In-Person
+- *BNOTIONS, a subsidiary of Bogaroo, was acquired by Symbility Solutions, and then later, CoreLogic*
 - Implemented server-side features and APIs for client projects using Django 
 - Developed a Flask backend for an internal team metrics dashboard 
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/d4c2niwf9htmk2sp1vli" width="36"> **IBM** | Software Development and Test Engineering Co-op
 #### *Ottawa, Ontario* | 01/2012 – 04/2012
+#### Internship, Full-Time, In-Person
 - Implemented regression fixes and conducted sanity, regression and performance testing for a11y (accessibility) features
 
 ___
@@ -67,12 +77,14 @@ ___
 ## Volunteer Experience
 
 ### <img src="https://avatars.githubusercontent.com/u/23178426?s=200&v=4" width="36"> **Khalis Foundation** | Developer
-#### *Sacramento, California (Remote)* | 09/2017 – Present
+#### *Sacramento, California* | 09/2017 – Present
+#### Volunteer, Part-Time, Remote
 - Maintaining [Learn Larivaar](https://github.com/KhalisFoundation/learn-larivaar), an interactive tool used to read Sikh scriptures in a traditional form with words joined together
 - Maintaining [AnvaadJS](https://github.com/KhalisFoundation/anvaad-js), an open-source unicode script converter for Indic languages
 
 ### <img src="https://avatars.githubusercontent.com/u/39977501?s=200&v=4" width="36"> **Gursevak (Charity)** | Mobile Developer
-#### *Brampton, Ontario (Remote)* | 05/2016 – 02/2023
+#### *Brampton, Ontario* | 05/2016 – 02/2023
+#### Volunteer, Part-Time, Remote
 - Maintained native [iOS](https://apps.apple.com/us/app/learn-shudh-gurbani/id937224618) and [Android](https://play.google.com/store/apps/details?id=com.gurbani.unlimited) apps for an educational charity that offers an interactive method to learn the Gurmukhi script
 - Shipped updates to an active user base of 50,000+ across both platforms, added features and improved app performance by 3x
 
@@ -82,11 +94,11 @@ ___
 
 ### <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1482121641/xhhx9vkcqtju5kxl4eex.png" width="36"> **University of Waterloo**  | Bachelor of Applied Science - BASc, Computer Engineering
 #### *Waterloo, Ontario* | 09/2011 – 04/2018
-- Relevant Courses: Algorithms/Data Structures, Operating Systems, Embedded Microprocessors, Networks, Databases, Distributed Computing, Cooperative/Adaptive Algorithms, Algorithm Design/Analysis, Programming for Performance
+Relevant Courses: Algorithms/Data Structures, Operating Systems, Embedded Microprocessors, Networks, Databases, Distributed Computing, Cooperative/Adaptive Algorithms, Algorithm Design/Analysis, Programming for Performance
 
-### <img src="https://northpark.peelschools.org/images/logo.svg" width="36"> **North Park Secondary School**  | Ontario Secondary School Diploma (OSSD)
+### <img src="https://northpark.peelschools.org/images/logo.svg" width="36"> **North Park Secondary School**  | Ontario Secondary School Diploma - OSSD
 #### *Brampton, Ontario* | 09/2007 – 06/2011
-- International, Business and Technology Program
+International Business and Technology Program
 
 ___
 
@@ -124,4 +136,4 @@ ___
 
 ## Interests
 
-Powerlifting, soccer, cycling, reading, cooking, spirituality, classical music
+Powerlifting, soccer, cycling, classical music, reading, cooking, spirituality
