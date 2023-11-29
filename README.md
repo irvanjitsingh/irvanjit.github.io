@@ -1,6 +1,9 @@
 # Irvanjit Singh Gill
 
-### [Resume](https://irvanjit.com/Resume_IrvanjitGill.pdf) | [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)
+<!--### [Resume](https://irvanjit.com/Resume_IrvanjitGill.pdf) | [LinkedIn](https://linkedin.com/in/irvanjitsingh) | [Github](https://github.com/irvanjitsingh) | [StackOverflow](https://stackoverflow.com/users/1227011/irvanjitsingh)-->
+### [Resume](https://irvanjit.com/Resume_IrvanjitGill.pdf)
+
+[![LinkedIn](https://github.com/irvanjitsingh/irvanjit.github.io/assets/1472548/fe85135c-5f65-4875-998e-bc9e25083fd9)](https://linkedin.com/in/irvanjitsingh) [![Github](https://github.com/irvanjitsingh/irvanjit.github.io/assets/1472548/b7ce498a-6a7d-4e29-94bd-501b67d46b9f)](https://linkedin.com/in/irvanjitsingh) [![StackOverflow](https://github.com/irvanjitsingh/irvanjit.github.io/assets/1472548/0e852ffa-aa66-4293-97b9-3c54ce360e69)](https://stackoverflow.com/users/1227011/irvanjitsingh)
 
 ___
 
