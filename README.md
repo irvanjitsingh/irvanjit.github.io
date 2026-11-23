@@ -7,18 +7,21 @@
 ___
 
 ## Software Engineer (iOS)
-Experienced software engineer with over 5 years of full-time industry experience working in both large and small teams on mobile and backend stacks. Proficient in iOS and Android development. Passionate about creating functional, helpful and user-friendly experiences for end-users.
+Experienced software engineer with over 8 years of full-time industry experience working in both large and small teams on mobile and backend stacks, with a focus on iOS development. Passionate about creating user-friendly, functionally useful experiences for end-users.
 
 ___
 
 ## Work Experience
 
 ### <img src="https://github.com/irvanjitsingh/irvanjit.github.io/assets/1472548/1cce2ba7-7f5d-402a-847b-74a9e1e894b8" width="40"> **Yelp** | Senior Software Engineer
-#### *Toronto, Ontario* | Jan 2022 – Present
+#### *Toronto, Ontario* | Jan 2022 – Nov 2026
 #### *Permanent, Full-Time, Remote*
-- iOS Engineer on the Discovery UX team, which owns Home, the screen that sees the most consumer traffic in the iOS app
-- Building the Home Feed and optimizing other areas of the home screen to boost user engagement, and improve UX and utility
-- Regularly lead projects, write and review code, run and analyze AB experiments, respond to incidents, and manage app releases
+- iOS Engineer on the Discovery UX team, which owns Home (the highest-traffic screen on the iOS consumer app), and Collections (now called Lists)
+- Built infrastructure and feed cards for the new Home Feed during a two-phased SDUI migration, enabling rapid experimentation on the homepage
+- Modernized core consumer experiences like the Save to Collections flow and the new Collections Lists tab, increasing user engagement YoY
+- Expanded to working on backend services (Python), owned features end-to-end across the stack, deployed changes to production
+- Regularly led projects end-to-end from technical scoping through implementation, experiment design, launch, and post-launch monitoring
+- Managed iOS app releases as part of release manager shifts, and responded to incidents as part of on-point shifts
 
 ### <img src="https://github.com/irvanjitsingh/irvanjit.github.io/assets/1472548/d959a40a-948f-4ed2-8ff8-6452cc9f1994" width="40"> **Clearbridge Mobile** | iOS Developer
 #### *Vaughan, Ontario* | Oct 2020 – Dec 2021
